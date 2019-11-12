@@ -1,4 +1,4 @@
-<div align="center"><h1></a>Documentations for SHS released or hosted mods (WIP)</h1>
+<div align="center"><h1><a name="top" id="top"></a>Documentation for mods released or hosted at SHS (WIP)</h1>
 </div><br />
 
 
@@ -14,14 +14,18 @@
 
 ## <a name="npc" id="npc"></a>Joinable NPC Mods
 
-Documentation for all Joinable NPC Mods hosted at SHS.
+Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.net/files/category/6-npc-mods/">SHS</a>.
 
-><span style="margin-left: 50px;"><a href="https://gwendolynefreddy.github.io/docs/spellholdstudios/readme-infinityanimations.html">Infinity Animations</a></span></br>
-><span style="margin-left: 50px;"><a href="https://gwendolynefreddy.github.io/docs/spellholdstudios/readme-infinityanimations-french.html">Infinity Animations (French)</a></span></br>
-><span style="margin-left: 50px;"><a href="https://gwendolynefreddy.github.io/docs/spellholdstudios/ia_reference_picker_readme.html">Infinity Animations Reference Picker</a></span></br>
-><span style="margin-left: 50px;"><a href="https://gwendolynefreddy.github.io/docs/spellholdstudios/ia_reference_picker_readme-french.html">Infinity Animations Reference Picker (French)</a></span></br>
-><span style="margin-left: 50px;"><a href="https://gwendolynefreddy.github.io/docs/spellholdstudios/ia_animations_ref_chart.html">Infinity Animations slots reference chart</a></span>
+><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/arath_readme.html">Arath</a> (by Kaeloree)</span></br>
+><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/dace_readme.html">Dace</a> (by Kaeloree)</span></br>
+><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/fade_readme.html">Fade</a> (by Mistress Elysia)</span></br>
+><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/iylos_readme.html">Iylos</a> (by Kaeloree)</span></br>
+><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/nephele_readme.html">Nephele</a> (by Kaeloree)</span>
+><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/_readme.html
+">Xulaye</a> (by Kaeloree)</span>
+><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/yeslick_readme.html">Yeslick</a> (by Kaeloree)</span>
 <div align="right"><a href="#top">Back to top</a></div>
+
 
 
 <hr>
@@ -29,7 +33,7 @@ Documentation for all Joinable NPC Mods hosted at SHS.
 
 ## <a name="npc2" id="npc2"></a>Content Expansion and Non-Joinable Character Mods
 
-Documentation for all Expansion mods and projects that add new individual characters (traders, non-joinable followers) hosted at SHS.
+Documentation for all Expansion mods and projects that add new individual characters (traders, non-joinable followers) hosted at <a href="http://www.shsforums.net/files/category/7-expansion-mods/">SHS</a>.
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -39,7 +43,7 @@ Documentation for all Expansion mods and projects that add new individual charac
 
 ## <a name="quest" id="quest"></a>Quest and Encounter Mods
 
-Documentation for all Quest and Encounter mods mods hosted at SHS.
+Documentation for all Quest and Encounter mods mods hosted at <a href="http://www.shsforums.net/files/category/11-quest-mods/">SHS</a>.
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -49,7 +53,7 @@ Documentation for all Quest and Encounter mods mods hosted at SHS.
 
 ## <a name="conversions" id="conversions"></a>Total and Partial Conversions
 
-Documentation for all Total and Partial Conversions hosted at SHS.
+Documentation for all Total and Partial Conversions hosted at <a href="http://www.shsforums.net/files/category/8-total-and-partial-conversions/">SHS</a>.
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -59,7 +63,7 @@ Documentation for all Total and Partial Conversions hosted at SHS.
 
 ## <a name="mega" id="mega"></a>Mega Modifications
 
-Documentation for all modifications that are part of the definition of mega-modification (i.e. BGT, TDD, SoS, TS, NeJ, RoT, CtB, BP and related mods) hosted at SHS.
+Documentation for all modifications that are part of the definition of mega-modification (i.e. BGT, TDD, SoS, TS, NeJ, RoT, CtB, BP and related mods) hosted at <a href="http://www.shsforums.net/files/category/9-mega-modifications/">SHS</a>.
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -69,7 +73,7 @@ Documentation for all modifications that are part of the definition of mega-modi
 
 ## <a name="tweaks" id="tweaks"></a>Tweaks, Rule Changes and Additions
 
-Documentation for all Tweaks as well as other mods that affect rules, classes, scripts and other mechanics of the game hosted at SHS.
+Documentation for all Tweaks as well as other mods that affect rules, classes, scripts and other mechanics of the game hosted at <a href="http://www.shsforums.net/files/category/10-technical-and-tweak-mods/">SHS</a>.
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -99,7 +103,7 @@ Documentation for all Planescape: Torment mods hosted at SHS.
 
 ## <a name="misc" id="misc"></a>Miscellaneous Released Mods
 
-Documentation for all released IE mods not officially hosted at SHS.
+Documentation for all released IE mods not officially hosted at <a href="http://www.shsforums.net/files/category/5-miscellaneous-released-mods/">SHS</a>.
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -109,7 +113,7 @@ Documentation for all released IE mods not officially hosted at SHS.
 
 ## <a name="resurrection" id="resurrection"></a>Mod Resurrections 
 
-Documentation for resurrected/rebuilt Infinity Engine mods hosted at SHS.
+Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="http://www.shsforums.net/files/category/49-mod-resurrections/">SHS</a>.
 
 
 <hr>
@@ -117,6 +121,6 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at SHS.
 
 ## <a name="tools" id="tools"></a>IE Modding Tools
 
-Documentation for all Infinity Engine Modding Tools hosted at SHS.
+Documentation for all Infinity Engine Modding Tools hosted at <a href="http://www.shsforums.net/files/category/97-ie-modding-tools/">SHS</a>.
 
 <div align="right"><a href="#top">Back to top</a></div>
