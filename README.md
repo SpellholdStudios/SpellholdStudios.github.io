@@ -16,14 +16,14 @@
 
 Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.net/files/category/6-npc-mods/">SHS</a>.
 
-><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/arath_readme.html">Arath</a> (by Kaeloree)</span></br>
-><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/dace_readme.html">Dace</a> (by Kaeloree)</span></br>
-><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/fade_readme.html">Fade</a> (by Mistress Elysia)</span></br>
-><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/iylos_readme.html">Iylos</a> (by Kaeloree)</span></br>
-><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/nephele_readme.html">Nephele</a> (by Kaeloree)</span>
-><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/_readme.html
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/arath_readme.html">Arath</a> (by Kaeloree)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/dace_readme.html">Dace</a> (by Kaeloree)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/fade_readme.html">Fade</a> (by Mistress Elysia)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/iylos_readme.html">Iylos</a> (by Kaeloree)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/nephele_readme.html">Nephele</a> (by Kaeloree)</span>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/_readme.html
 ">Xulaye</a> (by Kaeloree)</span>
-><span style="margin-left: 50px;"><a href="https://SpellholdStudios.github.io/readmes/yeslick_readme.html">Yeslick</a> (by Kaeloree)</span>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/yeslick_readme.html">Yeslick</a> (by Kaeloree)</span>
 <div align="right"><a href="#top">Back to top</a></div>
 
 
