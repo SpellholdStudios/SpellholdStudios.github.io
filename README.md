@@ -33,7 +33,7 @@ Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.
 | <a href="https://spellholdstudios.github.io/readmes/fade_readme.html">Fade</a>       | 5.5     | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a>        | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/iylos_readme.html">Iylos</a>     | 2.6     | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a>        | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/nephele_readme.html">Nephele</a> | 2.5     | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a>        | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
-| <a href="https://spellholdstudios.github.io/readmes/xulaye_readme.html">Xulaye</a>   | 2.0     | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a>        | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/xulaye_readme.htm">Xulaye</a>   | 2.0     | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a>        | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/yeslick_readme.html">Yeslick</a> | 2.0     | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a>        | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 <div align="right"><a href="#top">Back to top</a></div>
 
