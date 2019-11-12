@@ -21,18 +21,20 @@ Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/fade_readme.html">Fade</a> (by Mistress Elysia)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/iylos_readme.html">Iylos</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/nephele_readme.html">Nephele</a> (by Kaeloree)</span></br>
-><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/_readme.html
-">Xulaye</a> (by Kaeloree)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/xulaye_readme.html">Xulaye</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/yeslick_readme.html">Yeslick</a> (by Kaeloree)</span></br>
+
+
+|  Mod    | Version | Author          | Maintainer |
+| :------ |  :---:  | :-------------- | :--------- |
+| Arath   | 4       | Kaeloree        | Lava Del'Vortel |
+| Dace    | 5       | Mistress Elysia | - |
+| Fade    | 5.5     | Kaeloree        | Lava Del'Vortel |
+| Iylos   | 2.6     | Kaeloree        | Lava Del'Vortel |
+| Nephele | 2.5     | Kaeloree        | Lava Del'Vortel |
+| Xulaye  | 2.0     | Kaeloree        | Lava Del'Vortel |
+| Yeslick | 2.0     | Kaeloree        | Lava Del'Vortel |
 <div align="right"><a href="#top">Back to top</a></div>
-
-><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/docs/spellholdstudios/readme-infinityanimations.html">Infinity Animations</a></span></br>
-><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/docs/spellholdstudios/readme-infinityanimations-french.html">Infinity Animations (French)</a></span></br>
-><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/docs/spellholdstudios/ia_reference_picker_readme.html">Infinity Animations Reference Picker</a></span></br>
-><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/docs/spellholdstudios/ia_reference_picker_readme-french.html">Infinity Animations Reference Picker (French)</a></span></br>
-><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/docs/spellholdstudios/ia_animations_ref_chart.html">Infinity Animations slots reference chart</a></span>
-
-
 
 <hr>
 
