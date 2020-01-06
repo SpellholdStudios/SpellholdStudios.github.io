@@ -48,8 +48,6 @@ Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.
 
 Documentation for all Expansion mods and projects that add new individual characters (traders, non-joinable followers) hosted at <a href="http://www.shsforums.net/files/category/7-expansion-mods/">SHS</a>.
 
-Documentation for all Expansion mods and projects that add new individual characters (traders, non-joinable followers) hosted at <a href="http://www.shsforums.net/files/category/7-expansion-mods/">SHS</a>.
-
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/iepbanters-readme-english.html">IEP Extended Banters</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/cerndfriendship-readme-english.html">Cernd Friendship (SoA & ToB)</a> (by Kaeloree and Lava Del'Vortel)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/haerdalisfriendship-readme-english.html">Haer'Dalis Friendship (SoA & ToB)</a> (by Aeryn and Rhaella)</span></br>
@@ -61,7 +59,6 @@ Documentation for all Expansion mods and projects that add new individual charac
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/valygarfriendship-readme-english.html">Valygar Friendship (SoA & ToB)</a> (by Lava Del'Vortel)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/viconiafriendship-readme-english.html">Viconia Friendship (SoA & ToB)</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/yoshimofriendship-readme-english.html">Yoshimo Friendship</a> (by Shadowhawke)</span></br>
-
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> (by Laufey and others)</span></br>
 
 
@@ -75,11 +72,10 @@ Documentation for all Expansion mods and projects that add new individual charac
 | <a href="https://spellholdstudios.github.io/readmes/mazzyfriendship-readme-english.html">Mazzy Friendship (SoA & ToB)</a> | 3.4 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/minscfriendship-readme-english.html">Minsc Friendship (SoA & ToB)</a> | 1.2 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a>, <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and AionZ | |
 | <a href="https://spellholdstudios.github.io/readmes/sarevokfriendship-readme-english.html">Sarevok Friendship</a> | 2.6 | <a href="http://www.shsforums.net/user/11510-aeryn/">Aeryn</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
-| <a href="https://spellholdstudios.github.io/readmes/valygarfriendship-readme-english.html">Valygar Friendship (SoA & ToB)</a> | 1.2 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | |
+| <a href="https://spellholdstudios.github.io/readmes/valygarfriendship-readme-english.html">Valygar Friendship (SoA & ToB)</a> | 1.3 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | |
 | <a href="https://spellholdstudios.github.io/readmes/viconiafriendship-readme-english.html">Viconia Friendship (SoA & ToB)</a> | 4.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/yoshimofriendship-readme-english.html">Yoshimo Friendship</a> | 4.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/2233-shadowhawke/">Shadowhawke</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
-
-| <a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> | 2.10 | Laufey and others | <a href=""></a> |
+| <a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> | 2.10 | <a href="http://www.shsforums.net/user/601-laufey/">Laufey</a> and others | <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -92,13 +88,13 @@ Documentation for all Expansion mods and projects that add new individual charac
 Documentation for all Quest and Encounter mods mods hosted at <a href="http://www.shsforums.net/files/category/11-quest-mods/">SHS</a>.
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/readmefadingpromises.html">Fading Promises</a> (by berelinde)</span></br>
-><span style="margin-left: 50px;"><a href="readme-ntotsc.txt">Northern Tales of the Sword Coast</a> (by Sir BillyBob</span></br>
+><span style="margin-left: 50px;"><a href="readme-ntotsc.txt">Northern Tales of the Sword Coast</a> (a Sir BillyBob Production)</span></br>
 
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/readmefadingpromises.html">Fading Promises</a> | 8.0.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | --- |
-| <a href="readme-ntotsc.txt">Northern Tales of the Sword Coast</a> | 3.2.0 | Sir BillyBob | k4thos and jastey |
+| <a href="readme-ntotsc.txt">Northern Tales of the Sword Coast</a> | 3.2.0 | <a href="">a <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> Production</a> | <a href="http://www.shsforums.net/user/6375-k4thos/">k4thos</a> and <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -153,16 +149,6 @@ Documentation for all Visual and Audio Mods including Portrait Mods hosted at SH
 <hr>
 
 
-## <a name="pst" id="pst"></a>Planescape: Torment Mods
-
-Documentation for all Planescape: Torment mods hosted at SHS.
-
-<div align="right"><a href="#top">Back to top</a></div>
-
-
-<hr>
-
-
 ## <a name="misc" id="misc"></a>Miscellaneous Released Mods
 
 Documentation for all released IE mods not officially hosted at <a href="http://www.shsforums.net/files/category/5-miscellaneous-released-mods/">SHS</a>.
@@ -190,5 +176,15 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 ## <a name="tools" id="tools"></a>IE Modding Tools
 
 Documentation for all Infinity Engine Modding Tools hosted at <a href="http://www.shsforums.net/files/category/97-ie-modding-tools/">SHS</a>.
+
+<div align="right"><a href="#top">Back to top</a></div>
+
+
+<hr>
+
+
+## <a name="pst" id="pst"></a>Planescape: Torment Mods
+
+Documentation for all Planescape: Torment mods hosted at SHS.
 
 <div align="right"><a href="#top">Back to top</a></div>
