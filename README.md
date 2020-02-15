@@ -69,13 +69,13 @@ Documentation for all Expansion mods and projects that add new individual charac
 | <a href="https://spellholdstudios.github.io/readmes/haerdalisfriendship-readme-english.html">Haer'Dalis Friendship (SoA & ToB)</a> | 1.2 | <a href="http://www.shsforums.net/user/11510-aeryn/">Aeryn</a> and <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/imoenfriendship-readme-english.html">Imoen Friendship (SoA & ToB)</a> | 3.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/korganfriendship-readme-english.html">Korgan Friendship (SoA & ToB)</a> | 1.5 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | |
-| <a href="https://spellholdstudios.github.io/readmes/mazzyfriendship-readme-english.html">Mazzy Friendship (SoA & ToB)</a> | 3.4 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/mazzyfriendship-readme-english.html">Mazzy Friendship (SoA & ToB)</a> | 3.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/minscfriendship-readme-english.html">Minsc Friendship (SoA & ToB)</a> | 1.2 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a>, <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and AionZ | |
 | <a href="https://spellholdstudios.github.io/readmes/sarevokfriendship-readme-english.html">Sarevok Friendship</a> | 2.6 | <a href="http://www.shsforums.net/user/11510-aeryn/">Aeryn</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/valygarfriendship-readme-english.html">Valygar Friendship (SoA & ToB)</a> | 1.3 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | |
 | <a href="https://spellholdstudios.github.io/readmes/viconiafriendship-readme-english.html">Viconia Friendship (SoA & ToB)</a> | 4.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/yoshimofriendship-readme-english.html">Yoshimo Friendship</a> | 4.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/2233-shadowhawke/">Shadowhawke</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
-| <a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> | 2.10 | <a href="http://www.shsforums.net/user/601-laufey/">Laufey</a> and others | <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
+| <a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> | 2.11 | <a href="http://www.shsforums.net/user/601-laufey/">Laufey</a> and others | <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -123,7 +123,7 @@ Documentation for all modifications that are part of the definition of mega-modi
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/bgt/%5Benglish%5Dbgtreadme.htm">Baldur's Gate Trilogy-WeiDU</a> | 1.2.1 | <a href="https://github.com/Ascension64">Ascension64</a> | <a href="http://www.shsforums.net/user/41045-skellytz/">skellytz</a> |
-| <a href="https://spellholdstudios.github.io/readmes/worldmap-readme-english.html">BP-BGT Worldmap</a>| 10.2.3 | <a href="http://www.shsforums.net/user/3879-yacomo/">Yacomo</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a>, <a href="http://www.shsforums.net/user/4679-erebusant/">Erebusant</a> and <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | --- |
+| <a href="https://spellholdstudios.github.io/readmes/worldmap-readme-english.html">BP-BGT Worldmap</a>| 10.2.4 | <a href="http://www.shsforums.net/user/3879-yacomo/">Yacomo</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a>, <a href="http://www.shsforums.net/user/4679-erebusant/">Erebusant</a> and <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | --- |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
