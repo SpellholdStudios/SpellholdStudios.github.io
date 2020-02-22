@@ -89,12 +89,14 @@ Documentation for all Quest and Encounter mods mods hosted at <a href="http://ww
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/readmefadingpromises.html">Fading Promises</a> (by berelinde)</span></br>
 ><span style="margin-left: 50px;"><a href="readme-ntotsc.txt">Northern Tales of the Sword Coast</a> (a Sir BillyBob Production)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/rot-readme-english.html">Region of Terror</a> (by Gilgamesh)</span></br>
 
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/readmefadingpromises.html">Fading Promises</a> | 8.0.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | SHS Staff |
 | <a href="readme-ntotsc.txt">Northern Tales of the Sword Coast</a> | 3.2.0 | <a href="">a <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> Production</a> | <a href="http://www.shsforums.net/user/6375-k4thos/">k4thos</a> and <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
+| <a href="https://spellholdstudios.github.io/readmes/rot-readme-english.html">Region of Terror</a> | 4.0 | <a href="http://www.shsforums.net/user/3097-gilgamesh/">Gilgamesh</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a> and <a href="http://www.shsforums.net/user/7223-ikki/">Ikky</a> & <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -118,12 +120,16 @@ Documentation for all modifications that are part of the definition of mega-modi
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/bgt/%5Benglish%5Dbgtreadme.htm">Baldur's Gate Trilogy-WeiDU</a> (by Ascension64 - with permission from Bardez)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/worldmap-readme-english.html">BP-BGT Worldmap</a> (by Yacomo, King Diamond, Erebusant and Weigo)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/ctb-readme-english.html">Check the Bodies</a> (by Charles Bisson)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/sos-readme-english.html">Shadows over Soubar</a> (by CBisson, Horred the plague, King Diamond and Weigo)</span></br>
 
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/bgt/%5Benglish%5Dbgtreadme.htm">Baldur's Gate Trilogy-WeiDU</a> | 1.2.1 | <a href="https://github.com/Ascension64">Ascension64</a> | <a href="http://www.shsforums.net/user/41045-skellytz/">skellytz</a> |
 | <a href="https://spellholdstudios.github.io/readmes/worldmap-readme-english.html">BP-BGT Worldmap</a>| 10.2.4 | <a href="http://www.shsforums.net/user/3879-yacomo/">Yacomo</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a>, <a href="http://www.shsforums.net/user/4679-erebusant/">Erebusant</a> and <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | --- |
+| <a href="https://spellholdstudios.github.io/readmes/ctb-readme-english.html">Check the Bodies</a>| 3.0 | <a href="http://www.shsforums.net/user/3378-cbisson/">Charles Bisson</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a> (WeiDU revision), <a href="http://www.shsforums.net/user/7223-ikki/">Ikky</a> (EE Conversion) and <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> (EE revision) | <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> |
+| <a href="https://spellholdstudios.github.io/readmes/sos-readme-english.html">Shadows over Soubar</a>| 1.15 | <a href="http://www.shsforums.net/user/3378-cbisson/">CBisson</a>, <a href="http://www.shsforums.net/user/688-horred-the-plague/">Horred The Plague</a></a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a> and <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
