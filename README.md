@@ -18,13 +18,14 @@
 
 Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.net/files/category/6-npc-mods/">SHS</a>.
 
-><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/adrian_readme.html">Adrian NPC for BGII</a> (by Rhaella)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/adrian-readme-english.html">Adrian NPC for BGII</a> (by Rhaella)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/arath_readme.html">Arath</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/dace_readme.html">Dace</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/fade_readme.html">Fade</a> (by Mistress Elysia)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/istra_bg2-readme-english.html">Istra NPC for BGII</a> (by Rhaella)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/iylos_readme.html">Iylos</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/nephele_readme.html">Nephele</a> (by Kaeloree)</span></br>
-><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/ninde_readme.html">Ninde NPC for BGII</a> (by Deva, Kaeloree and Rhaella)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/ninde-readme-english.html">Ninde NPC for BGII</a> (by Deva, Kaeloree and Rhaella)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/xulaye_readme.html">Xulaye</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/yeslicknpc-readme-english.html">Yeslick NPC</a> (by Pixel Kaiser, Kaeloree and Lava Del'Vortel)</span></br>
 
@@ -32,13 +33,14 @@ Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="https://spellholdstudios.github.io/readmes/adrian_readme.html">Adrian NPC for BGII</a> | 5.0 | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> |
+| <a href="https://spellholdstudios.github.io/readmes/adrian-readme-english.html">Adrian NPC for BGII</a> | 5.0 | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> |
 | <a href="https://spellholdstudios.github.io/readmes/arath_readme.html">Arath</a> | 4 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/dace_readme.html">Dace</a>  | 5 | <a href="http://www.shsforums.net/user/1807-mistress-elysia/">Mistress Elysia</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/fade_readme.html">Fade</a> | 5.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/istra_bg2-readme-english.html">Istra NPC for BGII</a>  | 3.1 | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> and SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/iylos_readme.html">Iylos</a> | 2.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/nephele_readme.html">Nephele</a> | 2.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
-| <a href="https://spellholdstudios.github.io/readmes/ninde_readme.html">Ninde NPC for BGII</a>  | 3.0 | <a href="http://www.shsforums.net/user/3253-deva/">Deva (SoA)</a> - <a href="http://www.shsforums.net/user/3481-kaeloree/">K'aeloree</a> and <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> (ToB) | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> and SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/ninde-readme-english.html">Ninde NPC for BGII</a>  | 3.0 | <a href="http://www.shsforums.net/user/3253-deva/">Deva (SoA)</a> - <a href="http://www.shsforums.net/user/3481-kaeloree/">K'aeloree</a> and <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> (ToB) | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> and SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/xulaye_readme.htm">Xulaye</a> | 2.0 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/yeslicknpc-readme-english.html">Yeslick NPC</a> | 3.0 | <a href="http://www.shsforums.net/user/2005-pixel-kaiser/">Pixel Kaiser</a>, <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 
