@@ -22,8 +22,8 @@ Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/arath_readme.html">Arath</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/dace_readme.html">Dace</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/fade_readme.html">Fade</a> (by Mistress Elysia)</span></br>
-><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/isra-readme-english.html">Istra NPC (for BG)</a> (by Rhaella)</span></br>
-><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/isra_bg2-readme-english.html">Istra NPC for BGII</a> (by Rhaella)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/isra-readme-english.html">Isra NPC (for BG)</a> (by Rhaella)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/isra_bg2-readme-english.html">Isra NPC for BGII</a> (by Rhaella)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/iylos_readme.html">Iylos</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/nephele_readme.html">Nephele</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/ninde-readme-english.html">Ninde NPC for BGII</a> (by Deva, Kaeloree and Rhaella)</span></br>
