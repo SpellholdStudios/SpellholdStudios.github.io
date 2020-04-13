@@ -236,7 +236,7 @@ Documentation for all Infinity Engine Modding Tools hosted at <a href="http://ww
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="https://spellholdstudios.github.io/readmes/generalized_biffing-readme-english.html">Generalized Biffing</a> | 2.3 | <a href="http://www.shsforums.net/user/2083-the bigg/">the bigg</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
+| <a href="https://spellholdstudios.github.io/readmes/generalized_biffing-readme-english.html">Generalized Biffing</a> | 2.4 | <a href="http://www.shsforums.net/user/2083-the bigg/">the bigg</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> and SHS Staff|
 
 <div align="right"><a href="#top">Back to top</a></div>
 
