@@ -210,7 +210,7 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 | :------ |  :---:  | :-------------- | :--------- |
 | RPG Alison One-Day NPC (WIP) | 1.8 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Improved Asylum (WIP) | 1.0.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
-| RPG Kitanya NPC (SoA) (WIP) | 6.4.1 | <a href=""http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
+| RPG Kitanya NPC (SoA) (WIP) | 6.4.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Dungeon Item Pack (WIP) | 2.0 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | <a href="http://spellholdstudios.github.io/readmes/phaere_ports-readme-english.html">RPG Phaere's NPC Portrait Pack</a> | 5.0 | Phaere and <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | <a href="http://spellholdstudios.github.io/readmes/abystore-readme-english.html">RPG The Unusual Oddities Shop | 5.0 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
