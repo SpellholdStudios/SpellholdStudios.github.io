@@ -182,7 +182,7 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/korgan-readme-english.txt">Korgan's Redemption</a> | 10.0.1 | <a href="http://www.shsforums.net/user/12844-picollo/">Picollo</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="http://spellholdstudios.github.io/readmes/lucy-readme-english.html">Lucy the Wyvern</a> | 5.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> and SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> | 2.0 | <a href="http://www.shsforums.net/user/3148-yovaneth/">Yovaneth</a>  | <a href="http://www.shsforums.net/user/3148-yovaneth/">Yovaneth</a>  and SHS Staff |
+| <a href="http://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> | 2.0 | <a href="http://www.shsforums.net/user/3148-yovaneth/">Yovaneth</a>  | SHS Staff |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -194,30 +194,28 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 
 Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="http://www.shsforums.net/files/category/49-mod-resurrections/">SHS</a>.
 
-><span style="margin-left: 50px;"><a href="">RPG Alison One-Day NPC (WIP)</a> (by Rastor)</span></br>
-><span style="margin-left: 50px;"><a href="">RPG Improved Asylum (WIP)</a> (by Rastor)</span></br>
-><span style="margin-left: 50px;"><a href="">RPG Kitanya NPC (SoA) (WIP)</a> (by Rastor)</span></br>
-><span style="margin-left: 50px;"><a href="">RPG Dungeon Item Pack (WIP)</a> (by Rastor)</span></br>
+><span style="margin-left: 50px;">RPG Alison One-Day NPC (WIP) (by Rastor)</span></br>
+><span style="margin-left: 50px;">RPG Improved Asylum (WIP) (by Rastor)</span></br>
+><span style="margin-left: 50px;">RPG Kitanya NPC (SoA) (WIP) (by Rastor)</span></br>
+><span style="margin-left: 50px;">RPG Dungeon Item Pack (WIP) (by Rastor)</span></br>
 ><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/phaere_ports-readme-english.html">RPG Phaere's NPC Portrait Pack</a> (by Phaere and Rastor)</span></br>
-><span style="margin-left: 50px;"><a href="">RPG The Unusual Oddities Shop (WIP)</a> (by Tapio Kivikkola)</span></br>
-><span style="margin-left: 50px;"><a href="">RPG Sorcerer's Place Item Collection (WIP)</a> (by Rastor)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/firkraag-readme-english.txt">RPG Super Firkraag (WIP)</a> (by Rastor)</span></br>
-><span style="margin-left: 50px;"><a href="">RPG Dungeon Kit Pack (WIP)</a> (by Rastor)</span></br>
+><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/abystore-readme-english.html">RPG The Unusual Oddities Shop</a> (by Rastor)</span></br>
+><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/firkraag-readme-english.html">RPG Super Firkraag</a> (by Rastor)</span></br>
+><span style="margin-left: 50px;">RPG Dungeon Kit Pack (WIP) (by Olryx2)</span></br>
 ><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/rpgsolaflirtpack-readme-english.html">RPG Solaufein Flirt Pack</a> (by Jolyth)</span></br>
 
 &nbsp;
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="">RPG Alison One-Day NPC (WIP)</a> | 1.8 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
-| <a href="">RPG Improved Asylum (WIP)</a> | 1.0.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
-| <a href="">RPG Kitanya NPC (SoA) (WIP)</a> | 6.4.1 | <a href="">Rastor</a> | SHS Staff |
-| <a href="">RPG Dungeon Item Pack (WIP)</a> | 2.0 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
+| RPG Alison One-Day NPC (WIP) | 1.8 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
+| RPG Improved Asylum (WIP) | 1.0.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
+| RPG Kitanya NPC (SoA) (WIP) | 6.4.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
+| RPG Dungeon Item Pack (WIP) | 2.0 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | <a href="http://spellholdstudios.github.io/readmes/phaere_ports-readme-english.html">RPG Phaere's NPC Portrait Pack</a> | 5.0 | Phaere and <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
-| <a href="">RPG The Unusual Oddities Shop (WIP)</a> | 3.0 | Tapio Kivikkola | SHS Staff |
-| <a href="">RPG Sorcerer's Place Item Collection (WIP)</a> | 1.1 | <a href="">Rastor</a> | SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/firkraag-readme-english.txt">RPG Super Firkraag</a> | 1.5 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
-| <a href="">RPG Dungeon Kit Pack (WIP)</a> | 1.0 | <a href="">Rastor</a> | SHS Staff |
+| <a href="http://spellholdstudios.github.io/readmes/abystore-readme-english.html">RPG The Unusual Oddities Shop | 5.0 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
+| <a href="http://spellholdstudios.github.io/readmes/firkraag-readme-english.html">RPG Super Firkraag</a> | 1.5 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
+| RPG Dungeon Kit Pack (WIP) | 1.0 | Olryx2 | SHS Staff |
 | <a href="http://spellholdstudios.github.io/readmes/rpgsolaflirtpack-readme-english.html">RPG Solaufein Flirt Pack</a> | 1.2 | <a href="http://www.shsforums.net/user/1985-jolyth/">Jolyth</a> | SHS Staff |
 
 <div align="right"><a href="#top">Back to top</a></div>
