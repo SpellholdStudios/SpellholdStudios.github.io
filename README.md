@@ -194,6 +194,7 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 
 Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="http://www.shsforums.net/files/category/49-mod-resurrections/">SHS</a>.
 
+><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/aip-readme.txt">Adventures in Papperland</a> (by CBisson)</span></br>
 ><span style="margin-left: 50px;">RPG Alison One-Day NPC (WIP) (by Rastor)</span></br>
 ><span style="margin-left: 50px;">RPG Improved Asylum (WIP) (by Rastor)</span></br>
 ><span style="margin-left: 50px;">RPG Kitanya NPC (SoA) (WIP) (by Rastor)</span></br>
@@ -208,6 +209,7 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
+| <a href="http://spellholdstudios.github.io/readmes/aip-readme.txt">Adventures in Papperland</a> | 6.0 | <a href="http://www.shsforums.net/user/3378-cbisson/">CBisson</a> | SHS Staff |
 | RPG Alison One-Day NPC (WIP) | 1.8 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Improved Asylum (WIP) | 1.0.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Kitanya NPC (SoA) (WIP) | 6.4.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
