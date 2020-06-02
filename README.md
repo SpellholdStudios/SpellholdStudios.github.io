@@ -172,6 +172,7 @@ Documentation for all Visual and Audio Mods including Portrait Mods hosted at SH
 
 Documentation for all released IE mods not officially hosted at <a href="http://www.shsforums.net/files/category/5-miscellaneous-released-mods/">SHS</a>.
 
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/imnesvale-readme.txt">Duality's Odd Quest Mod (or simply Imnesvale)</a> (by Duality)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/korgan-readme-english.txt">Korgan's Redemption</a> (by Picollo)</span></br>
 ><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/lucy-readme-english.html">Lucy the Wyvern</a> (by Yovaneth)</span></br>
 ><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> (by berelinde)</span></br>
@@ -180,6 +181,7 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
+| <a href="https://spellholdstudios.github.io/readmes/imnesvale-readme.txt">Duality's Odd Quest Mod (or simply Imnesvale)</a> | 2.0 | <a href="http://www.shsforums.net/user/5195-duality/">Duality</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/korgan-readme-english.txt">Korgan's Redemption</a> | 10.0.1 | <a href="http://www.shsforums.net/user/12844-picollo/">Picollo</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="http://spellholdstudios.github.io/readmes/lucy-readme-english.html">Lucy the Wyvern</a> | 5.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> and SHS Staff |
 | <a href="http://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> | 2.0 | <a href="http://www.shsforums.net/user/3148-yovaneth/">Yovaneth</a>  | SHS Staff |
