@@ -176,6 +176,7 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/korgan-readme-english.txt">Korgan's Redemption</a> (by Picollo)</span></br>
 ><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/lucy-readme-english.html">Lucy the Wyvern</a> (by Yovaneth)</span></br>
 ><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> (by berelinde)</span></br>
+><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/snakes-readme-english.txt">The Slithering Menace</a> (by vilkacis)</span></br>
 
 &nbsp;
 
@@ -184,7 +185,8 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 | <a href="https://spellholdstudios.github.io/readmes/imnesvale-readme.txt">Duality's Odd Quest Mod (or simply Imnesvale)</a> | 2.0 | <a href="http://www.shsforums.net/user/5195-duality/">Duality</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/korgan-readme-english.txt">Korgan's Redemption</a> | 10.0.1 | <a href="http://www.shsforums.net/user/12844-picollo/">Picollo</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="http://spellholdstudios.github.io/readmes/lucy-readme-english.html">Lucy the Wyvern</a> | 5.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> and SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> | 2.0 | <a href="http://www.shsforums.net/user/3148-yovaneth/">Yovaneth</a>  | SHS Staff |
+| <a href="http://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> | 2.0 | <a href="http://www.shsforums.net/user/3148-yovaneth/">Yovaneth</a> | SHS Staff |
+| <a href="http://spellholdstudios.github.io/readmes/snakes-readme-english.txt">The Slithering Menace</a> | 4.0.0 | <a href="http://www.shsforums.net/user/6209-vilkacis/">vilkacis</a> | SHS Staff |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
