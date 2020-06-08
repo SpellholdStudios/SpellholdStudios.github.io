@@ -201,6 +201,7 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 ><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/aip-readme.txt">Adventures in Papperland</a> (by CBisson)</span></br>
 ><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/dsr-readme-english.txt">Demon Summoning Ritual</a> (by Tin)</span></br>
 ><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> (by Tin)</span></br>
+><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> (unknown author)</span></br>
 ><span style="margin-left: 50px;">RPG Alison One-Day NPC (WIP) (by Rastor)</span></br>
 ><span style="margin-left: 50px;">RPG Improved Asylum (WIP) (by Rastor)</span></br>
 ><span style="margin-left: 50px;">RPG Kitanya NPC (SoA) (WIP) (by Rastor)</span></br>
@@ -218,6 +219,7 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 | <a href="http://spellholdstudios.github.io/readmes/aip-readme.txt">Adventures in Papperland</a> | 6.0 | <a href="http://www.shsforums.net/user/3378-cbisson/">CBisson</a> | SHS Staff |
 | <a href="http://spellholdstudios.github.io/readmes/dsr-readme-english.txt">Demon Summoning Ritual</a> | 8.0.0 | Tin | SHS Staff |
 | <a href="http://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> | 7.0.0 | Tin | SHS Staff |
+| <a href="http://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> | 8.0.0 | (unknown author | SHS Staff |
 | RPG Alison One-Day NPC (WIP) | 1.8 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Improved Asylum (WIP) | 1.0.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Kitanya NPC (SoA) (WIP) | 6.4.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
