@@ -97,7 +97,7 @@ Documentation for all Expansion mods and projects that add new individual charac
 Documentation for all Quest and Encounter mods mods hosted at <a href="http://www.shsforums.net/files/category/11-quest-mods/">SHS</a>.
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/readmefadingpromises.html">Fading Promises</a> (by berelinde)</span></br>
-><span style="margin-left: 50px;"><a href="readme-ntotsc.txt">Northern Tales of the Sword Coast</a> (a Sir BillyBob Production)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/readme-ntotsc.txt">Northern Tales of the Sword Coast</a> (a Sir BillyBob Production)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/rot-readme-english.html">Region of Terror</a> (by Gilgamesh)</span></br>
 
 &nbsp;
@@ -105,7 +105,7 @@ Documentation for all Quest and Encounter mods mods hosted at <a href="http://ww
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/readmefadingpromises.html">Fading Promises</a> | 8.0.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | SHS Staff |
-| <a href="readme-ntotsc.txt">Northern Tales of the Sword Coast</a> | 3.2.0 | <a href="">a <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> Production</a> | <a href="http://www.shsforums.net/user/6375-k4thos/">k4thos</a> and <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
+| <a href="https://spellholdstudios.github.io/readmes/readme-ntotsc.txt">Northern Tales of the Sword Coast</a> | 3.2.0 | <a href="">a <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> Production</a> | <a href="http://www.shsforums.net/user/6375-k4thos/">k4thos</a> and <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
 | <a href="https://spellholdstudios.github.io/readmes/rot-readme-english.html">Region of Terror</a> | 4.0 | <a href="http://www.shsforums.net/user/3097-gilgamesh/">Gilgamesh</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a> and <a href="http://www.shsforums.net/user/7223-ikki/">Ikky</a> & <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
@@ -174,9 +174,10 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/imnesvale-readme.txt">Duality's Odd Quest Mod (or simply Imnesvale)</a> (by Duality)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/korgan-readme-english.txt">Korgan's Redemption</a> (by Picollo)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/lucy-readme-english.html">Lucy the Wyvern</a> (by Yovaneth)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> (by berelinde)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/snakes-readme-english.txt">The Slithering Menace</a> (by vilkacis)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/lucy-readme-english.html">Lucy the Wyvern</a> (by berelinde)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/rupert-readme-english.html">Rupert the Dye Merchant</a> (by vilkacis)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> (by Yovaneth)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/snakes-readme-english.txt">The Slithering Menace</a> (by vilkacis)</span></br>
 
 &nbsp;
 
@@ -184,9 +185,10 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/imnesvale-readme.txt">Duality's Odd Quest Mod (or simply Imnesvale)</a> | 2.0 | <a href="http://www.shsforums.net/user/5195-duality/">Duality</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/korgan-readme-english.txt">Korgan's Redemption</a> | 10.0.1 | <a href="http://www.shsforums.net/user/12844-picollo/">Picollo</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
-| <a href="http://spellholdstudios.github.io/readmes/lucy-readme-english.html">Lucy the Wyvern</a> | 5.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> and SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> | 2.0 | <a href="http://www.shsforums.net/user/3148-yovaneth/">Yovaneth</a> | SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/snakes-readme-english.txt">The Slithering Menace</a> | 4.0.0 | <a href="http://www.shsforums.net/user/6209-vilkacis/">vilkacis</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/lucy-readme-english.html">Lucy the Wyvern</a> | 5.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> and SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/rupert-readme-english.html">Rupert the Dye Merchant</a> | 3.0.0 | <a href="http://www.shsforums.net/user/6209-vilkacis/">vilkacis</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> | 2.0 | <a href="http://www.shsforums.net/user/3148-yovaneth/">Yovaneth</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/snakes-readme-english.txt">The Slithering Menace</a> | 4.0.0 | <a href="http://www.shsforums.net/user/6209-vilkacis/">vilkacis</a> | SHS Staff |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -198,18 +200,18 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 
 Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="http://www.shsforums.net/files/category/49-mod-resurrections/">SHS</a>.
 
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/aip-readme.txt">Adventures in Papperland</a> (by CBisson)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/dsr-readme-english.txt">Demon Summoning Ritual</a> (by Tin)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> (by Tin)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> (unknown author)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/dragonsummon-readme-english.txt">Red Dragon Summoning Spell</a> (by Coco_Pliz)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/aip-readme.txt">Adventures in Papperland</a> (by CBisson)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/dsr-readme-english.txt">Demon Summoning Ritual</a> (by Tin)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> (by Tin)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> (unknown author)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/dragonsummon-readme-english.txt">Red Dragon Summoning Spell</a> (by Coco_Pliz)</span></br>
 ><span style="margin-left: 50px;">RPG Alison One-Day NPC (WIP) (by Rastor)</span></br>
 ><span style="margin-left: 50px;">RPG Improved Asylum (WIP) (by Rastor)</span></br>
 ><span style="margin-left: 50px;">RPG Kitanya NPC (SoA) (WIP) (by Rastor)</span></br>
 ><span style="margin-left: 50px;">RPG Dungeon Item Pack (WIP) (by Rastor)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/phaere_ports-readme-english.html">RPG Phaere's NPC Portrait Pack</a> (by Phaere and Rastor)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/abystore-readme-english.html">RPG The Unusual Oddities Shop</a> (by Rastor)</span></br>
-><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/firkraag-readme-english.html">RPG Super Firkraag</a> (by Rastor)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/phaere_ports-readme-english.html">RPG Phaere's NPC Portrait Pack</a> (by Phaere and Rastor)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/abystore-readme-english.html">RPG The Unusual Oddities Shop</a> (by Rastor)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/firkraag-readme-english.html">RPG Super Firkraag</a> (by Rastor)</span></br>
 ><span style="margin-left: 50px;">RPG Dungeon Kit Pack (WIP) (by Olryx2)</span></br>
 ><span style="margin-left: 50px;"><a href="http://spellholdstudios.github.io/readmes/rpgsolaflirtpack-readme-english.html">RPG Solaufein Flirt Pack</a> (by Jolyth)</span></br>
 
@@ -217,20 +219,20 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="http://spellholdstudios.github.io/readmes/aip-readme.txt">Adventures in Papperland</a> | 6.0 | <a href="http://www.shsforums.net/user/3378-cbisson/">CBisson</a> | SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/dsr-readme-english.txt">Demon Summoning Ritual</a> | 8.0.0 | Tin | SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> | 7.0.0 | Tin | SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> | 8.0.0 | unknown author | SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/dragonsummon-readme-english.txt">Red Dragon Summoning Spell</a> | 2.0.0 | Coco_Pliz | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/aip-readme.txt">Adventures in Papperland</a> | 6.0 | <a href="http://www.shsforums.net/user/3378-cbisson/">CBisson</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/dsr-readme-english.txt">Demon Summoning Ritual</a> | 8.0.0 | Tin | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> | 7.0.0 | Tin | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> | 8.0.0 | unknown author | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/dragonsummon-readme-english.txt">Red Dragon Summoning Spell</a> | 2.0.0 | Coco_Pliz | SHS Staff |
 | RPG Alison One-Day NPC (WIP) | 1.8 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Improved Asylum (WIP) | 1.0.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Kitanya NPC (SoA) (WIP) | 6.4.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Dungeon Item Pack (WIP) | 2.0 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/phaere_ports-readme-english.html">RPG Phaere's NPC Portrait Pack</a> | 5.0 | Phaere and <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/abystore-readme-english.html">RPG The Unusual Oddities Shop | 5.0 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/firkraag-readme-english.html">RPG Super Firkraag</a> | 1.5 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/phaere_ports-readme-english.html">RPG Phaere's NPC Portrait Pack</a> | 5.0 | Phaere and <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/abystore-readme-english.html">RPG The Unusual Oddities Shop | 5.0 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/firkraag-readme-english.html">RPG Super Firkraag</a> | 1.5 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Dungeon Kit Pack (WIP) | 1.0 | Olryx2 | SHS Staff |
-| <a href="http://spellholdstudios.github.io/readmes/rpgsolaflirtpack-readme-english.html">RPG Solaufein Flirt Pack</a> | 1.2 | <a href="http://www.shsforums.net/user/1985-jolyth/">Jolyth</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/rpgsolaflirtpack-readme-english.html">RPG Solaufein Flirt Pack</a> | 1.2 | <a href="http://www.shsforums.net/user/1985-jolyth/">Jolyth</a> | SHS Staff |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
