@@ -68,6 +68,7 @@ Documentation for all Expansion mods and projects that add new individual charac
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/viconiafriendship-readme-english.html">Viconia Friendship (SoA & ToB)</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/yoshimofriendship-readme-english.html">Yoshimo Friendship</a> (by Shadowhawke)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> (by Laufey and others)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/neera-expansion-readme-english.html">Neera Expansion (BG:EE)</a> (by Kaeloree)</span></br>
 
 &nbsp;
 
@@ -85,6 +86,7 @@ Documentation for all Expansion mods and projects that add new individual charac
 | <a href="https://spellholdstudios.github.io/readmes/viconiafriendship-readme-english.html">Viconia Friendship (SoA & ToB)</a> | 4.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/yoshimofriendship-readme-english.html">Yoshimo Friendship</a> | 4.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/2233-shadowhawke/">Shadowhawke</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> | 2.11 | <a href="http://www.shsforums.net/user/601-laufey/">Laufey</a> and others | <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
+| <a href="https://spellholdstudios.github.io/readmes/neera-expansion-readme-english.html">Neera Expansion (BG:EE)</a> | 1.2.0 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | SHS |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
