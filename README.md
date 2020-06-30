@@ -203,12 +203,14 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 Documentation for all IE mods mirrored at SHS <a href="http://www.shsforums.net/files/category/91-clan-dlan-mirror/">Clan DLAN mirror</a> and <a href="http://www.shsforums.net/files/category/95-clan-reo-mirror/">Clan REO mirror</a>.
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/bolsa-readme-english.txt">Bolsa</a> (by Alexa and Mhoram)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> (by Moonfruit)</span></br>
 
 &nbsp;
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="bolsa-readme-english.txt">Bolsa</a> | 6.0.0 | Alexa and <a href="http://www.shsforums.net/user/409-mhoram/">Mhoram</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
+| <a href="https://spellholdstudios.github.io/readmes/bolsa-readme-english.txt">Bolsa</a> | 6.0.0 | Alexa and <a href="http://www.shsforums.net/user/409-mhoram/">Mhoram</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
+| <a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> | 29.0.0 | <a href="http://www.shsforums.net/user/40637-moonfruit/">Moonfruit</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
