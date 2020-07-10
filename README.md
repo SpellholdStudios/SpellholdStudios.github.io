@@ -180,6 +180,7 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/rupert-readme-english.html">Rupert the Dye Merchant</a> (by vilkacis)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> (by Yovaneth)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/snakes-readme-english.txt">The Slithering Menace</a> (by vilkacis)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/tnoober-readme-english.txt">The Sword of Noober</a> (by Pex657 - aka BalanceRD - and Kerintok)</span></br>
 
 &nbsp;
 
@@ -191,6 +192,7 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 | <a href="https://spellholdstudios.github.io/readmes/rupert-readme-english.html">Rupert the Dye Merchant</a> | 3.0.0 | <a href="http://www.shsforums.net/user/6209-vilkacis/">vilkacis</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/slandor-readme-english.html">The Minotaur and Lilacor</a> | 2.0 | <a href="http://www.shsforums.net/user/3148-yovaneth/">Yovaneth</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/snakes-readme-english.txt">The Slithering Menace</a> | 4.0.0 | <a href="http://www.shsforums.net/user/6209-vilkacis/">vilkacis</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/tnoober-readme-english.txt">The Sword of Noober</a> | 2.1.0 | Pex657 (aka BalanceRD) and Kerintok | SHS Staff |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
