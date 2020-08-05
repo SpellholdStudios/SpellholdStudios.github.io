@@ -6,7 +6,8 @@
 <div align="center">
 <a href="#npc">Joinable NPC Mods</a> &#x2B25; <a href="#npc2">Content Expansion and Non-Joinable Character Mods</a> &#x2B25; <a href="#quest">Quest and Encounter Mods</a></br>
 <a href="#conversions">Total and Partial Conversions</a> &#x2B25; <a href="#mega">Mega Modifications</a> &#x2B25; <a href="#tweaks">Tweaks, Rule Changes and Additions</a> &#x2B25; <a href="#cosmetic">Visual and Audio Mods</a></br>
-<a href="#misc">Miscellaneous Released Mods</a> &#x2B25; <a href="#resurrection">Mod Resurrections</a> &#x2B25; <a href="#tools">IE Modding Tools</a> &#x2B25; <a href="#pst">Planescape: Torment Mods</a></br>
+<a href="#misc">Miscellaneous Released Mods</a> &#x2B25; <a href="#clan">Clan DLAN and Clan REO mirrored Mods</a> &#x2B25; <a href="#resurrection">Mod Resurrections</a></br>
+<a href="#tools">IE Modding Tools</a> &#x2B25; <a href="#pst">Planescape: Torment Mods</a></br>
 </div>
 
 
@@ -210,7 +211,7 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 <hr>
 
 
-## <a name="misc" id="misc"></a>Clan DLAN and Clan REO mirrors
+## <a name="clan" id="clan"></a>Clan DLAN and Clan REO mirrors
 
 Documentation for all IE mods mirrored at SHS <a href="http://www.shsforums.net/files/category/91-clan-dlan-mirror/">Clan DLAN mirror</a> and <a href="http://www.shsforums.net/files/category/95-clan-reo-mirror/">Clan REO mirror</a>.
 
