@@ -6,7 +6,8 @@
 <div align="center">
 <a href="#npc">Joinable NPC Mods</a> &#x2B25; <a href="#npc2">Content Expansion and Non-Joinable Character Mods</a> &#x2B25; <a href="#quest">Quest and Encounter Mods</a></br>
 <a href="#conversions">Total and Partial Conversions</a> &#x2B25; <a href="#mega">Mega Modifications</a> &#x2B25; <a href="#tweaks">Tweaks, Rule Changes and Additions</a> &#x2B25; <a href="#cosmetic">Visual and Audio Mods</a></br>
-<a href="#misc">Miscellaneous Released Mods</a> &#x2B25; <a href="#resurrection">Mod Resurrections</a> &#x2B25; <a href="#tools">IE Modding Tools</a> &#x2B25; <a href="#pst">Planescape: Torment Mods</a></br>
+<a href="#misc">Miscellaneous Released Mods</a> &#x2B25; <a href="#clan">Clan DLAN and Clan REO mirrored Mods</a> &#x2B25; <a href="#resurrection">Mod Resurrections</a></br>
+<a href="#tools">IE Modding Tools</a> &#x2B25; <a href="#pst">Planescape: Torment Mods</a></br>
 </div>
 
 
@@ -35,13 +36,13 @@ Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/adrian-readme-english.html">Adrian NPC for BGII</a> | 5.0 | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> |
-| <a href="https://spellholdstudios.github.io/readmes/arath_readme.html">Arath</a> | 4 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/arath_readme.html">Arath</a> | 5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/dace_readme.html">Dace</a> | 5 | <a href="http://www.shsforums.net/user/1807-mistress-elysia/">Mistress Elysia</a> | SHS Staff |
-| <a href="https://spellholdstudios.github.io/readmes/fade_readme.html">Fade</a> | 5.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/fade_readme.html">Fade</a> | 5.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/isra-readme-english.html">Isra NPC (for BG)</a> | 3.2 | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> and SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/isra_bg2-readme-english.html">Isra NPC for BGII</a> | 3.1 | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> and SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/iylos_readme.html">Iylos</a> | 2.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
-| <a href="https://spellholdstudios.github.io/readmes/nephele_readme.html">Nephele</a> | 2.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/nephele_readme.html">Nephele</a> | 2.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/ninde-readme-english.html">Ninde NPC for BGII</a> | 3.0 | <a href="http://www.shsforums.net/user/3253-deva/">Deva (SoA)</a> - <a href="http://www.shsforums.net/user/3481-kaeloree/">K'aeloree</a> and <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> (ToB) | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> and SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/xulaye_readme.htm">Xulaye</a> | 2.0 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/yeslicknpc-readme-english.html">Yeslick NPC</a> | 4.0 | <a href="http://www.shsforums.net/user/2005-pixel-kaiser/">Pixel Kaiser</a>, <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
@@ -82,7 +83,7 @@ Documentation for all Expansion mods and projects that add new individual charac
 | <a href="https://spellholdstudios.github.io/readmes/mazzyfriendship-readme-english.html">Mazzy Friendship (SoA & ToB)</a> | 3.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/minscfriendship-readme-english.html">Minsc Friendship (SoA & ToB)</a> | 1.2 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a>, <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and AionZ | |
 | <a href="https://spellholdstudios.github.io/readmes/sarevokfriendship-readme-english.html">Sarevok Friendship</a> | 2.6 | <a href="http://www.shsforums.net/user/11510-aeryn/">Aeryn</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
-| <a href="https://spellholdstudios.github.io/readmes/valygarfriendship-readme-english.html">Valygar Friendship (SoA & ToB)</a> | 1.3 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | |
+| <a href="https://spellholdstudios.github.io/readmes/valygarfriendship-readme-english.html">Valygar Friendship (SoA & ToB)</a> | 1.4 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | |
 | <a href="https://spellholdstudios.github.io/readmes/viconiafriendship-readme-english.html">Viconia Friendship (SoA & ToB)</a> | 4.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/yoshimofriendship-readme-english.html">Yoshimo Friendship</a> | 4.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/2233-shadowhawke/">Shadowhawke</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> | 2.11 | <a href="http://www.shsforums.net/user/601-laufey/">Laufey</a> and others | <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
@@ -98,6 +99,7 @@ Documentation for all Expansion mods and projects that add new individual charac
 
 Documentation for all Quest and Encounter mods mods hosted at <a href="http://www.shsforums.net/files/category/11-quest-mods/">SHS</a>.
 
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/readme.english.dsotsc.txt">Dark Side of the Sword Coast</a> (by Sir BillyBob from CuChoinneach's original mod, and others)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/readmefadingpromises.html">Fading Promises</a> (by berelinde)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/readme-ntotsc.txt">Northern Tales of the Sword Coast</a> (a Sir BillyBob Production)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/rot-readme-english.html">Region of Terror</a> (by Gilgamesh)</span></br>
@@ -106,8 +108,9 @@ Documentation for all Quest and Encounter mods mods hosted at <a href="http://ww
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
+| <a href="https://spellholdstudios.github.io/readmes/readme.english.dsotsc.txt">Dark Side of the Sword Coast</a> | 4.0 | <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> from CuChoinneach's original mod, and others | <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
 | <a href="https://spellholdstudios.github.io/readmes/readmefadingpromises.html">Fading Promises</a> | 8.0.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | SHS Staff |
-| <a href="https://spellholdstudios.github.io/readmes/readme-ntotsc.txt">Northern Tales of the Sword Coast</a> | 3.2.0 | <a href="">a <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> Production</a> | <a href="http://www.shsforums.net/user/6375-k4thos/">k4thos</a> and <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
+| <a href="https://spellholdstudios.github.io/readmes/readme-ntotsc.txt">Northern Tales of the Sword Coast</a> | 4.1.0 | a <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> Production | <a href="http://www.shsforums.net/user/6375-k4thos/">k4thos</a> and <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
 | <a href="https://spellholdstudios.github.io/readmes/rot-readme-english.html">Region of Terror</a> | 4.0 | <a href="http://www.shsforums.net/user/3097-gilgamesh/">Gilgamesh</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a> and <a href="http://www.shsforums.net/user/7223-ikki/">Ikky</a> & <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
@@ -162,7 +165,15 @@ Documentation for all Tweaks as well as other mods that affect rules, classes, s
 
 ## <a name="cosmetic" id="cosmetic"></a>Visual and Audio Mods
 
-Documentation for all Visual and Audio Mods including Portrait Mods hosted at SHS.
+Documentation for all Visual and Audio Mods including Portrait Mods hosted at <a href="http://www.shsforums.net/forum/531-visual-and-audio-mods/">SHS</a>.
+
+><span style="margin-left: 50px;"><a href="">One Pixel Productions (1PP)</a> (by Erephine)</span></br>
+
+&nbsp;
+
+|  Mod    | Version | Author          | Maintainer |
+| :------ |  :---:  | :-------------- | :--------- |
+| <a href="">One Pixel Productions (1PP)</a> | 1.4.1 | <a href="http://www.shsforums.net/user/2954-erephine/">Erephine</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -200,11 +211,12 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 <hr>
 
 
-## <a name="misc" id="misc"></a>Clan DLAN and Clan REO mirrors
+## <a name="clan" id="clan"></a>Clan DLAN and Clan REO mirrors
 
 Documentation for all IE mods mirrored at SHS <a href="http://www.shsforums.net/files/category/91-clan-dlan-mirror/">Clan DLAN mirror</a> and <a href="http://www.shsforums.net/files/category/95-clan-reo-mirror/">Clan REO mirror</a>.
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/bolsa-readme-english.txt">Bolsa</a> (by Alexa and Mhoram)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/darron-readme-english.txt">Darron</a> (by Eslizon)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> (by Moonfruit)</span></br>
 
 &nbsp;
@@ -212,6 +224,7 @@ Documentation for all IE mods mirrored at SHS <a href="http://www.shsforums.net/
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/bolsa-readme-english.txt">Bolsa</a> | 6.0.0 | Alexa and <a href="http://www.shsforums.net/user/409-mhoram/">Mhoram</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
+| <a href="https://spellholdstudios.github.io/readmes/darron-readme-english.txt">Darron</a> | 2.0.0 | Eslizon | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> | 29.1.0 | <a href="http://www.shsforums.net/user/40637-moonfruit/">Moonfruit</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
