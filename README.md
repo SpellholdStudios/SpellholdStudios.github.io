@@ -169,13 +169,13 @@ Documentation for all Tweaks as well as other mods that affect rules, classes, s
 
 Documentation for all Visual and Audio Mods including Portrait Mods hosted at <a href="http://www.shsforums.net/forum/531-visual-and-audio-mods/">SHS</a>.
 
-><span style="margin-left: 50px;"><a href="">One Pixel Productions (1PP)</a> (by Erephine)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/1pp/documentation/1pp-readme-english.html">One Pixel Productions (1PP)</a> (by Erephine)</span></br>
 
 &nbsp;
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="">One Pixel Productions (1PP)</a> | 1.4.1 | <a href="http://www.shsforums.net/user/2954-erephine/">Erephine</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
+| <a href="https://spellholdstudios.github.io/readmes/1pp/documentation/1pp-readme-english.html">One Pixel Productions (1PP)</a> | 4.2.0 | <a href="http://www.shsforums.net/user/2954-erephine/">Erephine</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
