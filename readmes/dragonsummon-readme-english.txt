@@ -1,6 +1,6 @@
 * ================================================================= *
 *                     Red Dragon Summoning Spell                    *
-*                           version 2.0.0                           *
+*                           version 2.1.0                           *
 *                                                                   *
 *     A mod for BGII: ToB (classical and EE games), BGT and EET     *
 *                                                                   *
@@ -24,9 +24,10 @@ CREDITS
 
 - Extremist: Proofread the original mod.
 - kevmus: First WeiDU conversion.
-- Gwendolyne: Provided French translation.
-- Lisandro: Provided Spanish translation.
-- Fess, Austin and aerie.ru team: Provided Russian translation.
+- ilot: Italian translation.
+- Gwendolyne: French translation.
+- Lisandro: Spanish translation.
+- Fess, Austin and aerie.ru team: Russian translation.
 - AL|EN: Wrote Infinity Auto Packager tool which automatically provides Windows, Linux and Mac versions in the same archive file.
 ( https://forums.beamdog.com/discussion/78364/infinity-auto-packager-automatically-generate-and-adds-mod-packages-to-release-when-you-publish-it )
 
@@ -34,14 +35,16 @@ CREDITS
 VERSION HISTORY
 ===============
 
-Version 2.0.0 (June 12, 2020)
+Version 2.1.0 (August 30, 2020)
+- Added Italian translation (by ilot).
 
+Version 2.0.0 (June 12, 2020)
 - Added "dragonsummon.ini" metadata file to support AL|EN's "Project Infinity".
 - Renamed "Setup-DragonSummon.tp2" -> "dragonsummon.tp2" to support AL|EN's "Project Infinity".
 - Replaced `AUTHOR` keyword with `SUPPORT`.
+- Added missing `HANDLE_CHARSETS` function to convert string entries for EE games.
 - Added `REQUIRE_PREDICATE` conditions to avoid installing the mod in inaccurate games.
 - Added component `DESIGNATED` number and "red_dragon_summoning_spell" `LABEL`.
-- Added missing `HANDLE_CHARSETS` function to convert string entries for EE games.
 - Removed `READLN` action and included into main component the option adding the scroll in Ribald's secret stock of items, to support AL|EN's "Project Infinity".
 - Added native BG2:EE and EET compatibility.
 - Added new spell and scroll icon.

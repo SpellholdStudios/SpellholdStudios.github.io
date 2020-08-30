@@ -265,7 +265,7 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 | <a href="https://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> | 7.0.0 | Tin | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/improved-haerdalis-swords-readme-english.html">Improved Haer'Dalis' Swords</a> | 3.0.0 | <a href="http://www.shsforums.net/user/5102-badgert/">Badgert</a> and <a href="http://www.shsforums.net/user/4657-kania/">Kania Blade</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> | 8.0.0 | unknown author | SHS Staff |
-| <a href="https://spellholdstudios.github.io/readmes/dragonsummon-readme-english.txt">Red Dragon Summoning Spell</a> | 2.0.0 | Coco_Pliz | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/dragonsummon-readme-english.txt">Red Dragon Summoning Spell</a> | 2.1.0 | Coco_Pliz | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/sotm-readme-english.txt">Stuff of the Magi</a> | 6.0.0 | Victor Straffe and <a href="http://www.shsforums.net/user/10434-kevmus/">Kevmus</a> | SHS Staff |
 | RPG Alison One-Day NPC (WIP) | 1.8 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Improved Asylum (WIP) | 1.0.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
