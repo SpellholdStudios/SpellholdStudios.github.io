@@ -199,7 +199,7 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="https://spellholdstudios.github.io/readmes/imnesvale-readme.txt">Duality's Odd Quest Mod (or simply Imnesvale)</a> | 2.0 | <a href="http://www.shsforums.net/user/5195-duality/">Duality</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
+| <a href="https://spellholdstudios.github.io/readmes/imnesvale-readme.txt">Duality's Odd Quest Mod (or simply Imnesvale)</a> | 2.1 | <a href="http://www.shsforums.net/user/5195-duality/">Duality</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/korgan-readme-english.txt">Korgan's Redemption</a> | 10.0.1 | <a href="http://www.shsforums.net/user/12844-picollo/">Picollo</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/lucy-readme-english.html">Lucy the Wyvern</a> | 5.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> and SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/rupert-readme-english.html">Rupert the Dye Merchant</a> | 3.0.0 | <a href="http://www.shsforums.net/user/6209-vilkacis/">vilkacis</a> | SHS Staff |
