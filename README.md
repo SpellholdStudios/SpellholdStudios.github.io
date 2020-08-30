@@ -227,7 +227,7 @@ Documentation for all IE mods mirrored at SHS <a href="http://www.shsforums.net/
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/bolsa-readme-english.txt">Bolsa</a> | 6.0.0 | Alexa and <a href="http://www.shsforums.net/user/409-mhoram/">Mhoram</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/darron-readme-english.txt">Darron</a> | 2.0.0 | Eslizon | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
-| <a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> | 29.1.0 | <a href="http://www.shsforums.net/user/40637-moonfruit/">Moonfruit</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
+| <a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> | 29.2.0 | <a href="http://www.shsforums.net/user/40637-moonfruit/">Moonfruit</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -265,7 +265,7 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 | <a href="https://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> | 7.0.0 | Tin | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/improved-haerdalis-swords-readme-english.html">Improved Haer'Dalis' Swords</a> | 3.0.0 | <a href="http://www.shsforums.net/user/5102-badgert/">Badgert</a> and <a href="http://www.shsforums.net/user/4657-kania/">Kania Blade</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> | 8.0.0 | unknown author | SHS Staff |
-| <a href="https://spellholdstudios.github.io/readmes/dragonsummon-readme-english.txt">Red Dragon Summoning Spell</a> | 2.0.0 | Coco_Pliz | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/dragonsummon-readme-english.txt">Red Dragon Summoning Spell</a> | 2.1.0 | Coco_Pliz | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/sotm-readme-english.txt">Stuff of the Magi</a> | 6.0.0 | Victor Straffe and <a href="http://www.shsforums.net/user/10434-kevmus/">Kevmus</a> | SHS Staff |
 | RPG Alison One-Day NPC (WIP) | 1.8 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
 | RPG Improved Asylum (WIP) | 1.0.1 | <a href="http://www.shsforums.net/user/1153-rastor/">Rastor</a> | SHS Staff |
