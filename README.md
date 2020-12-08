@@ -77,10 +77,10 @@ Documentation for all Expansion mods and projects that add new individual charac
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="https://spellholdstudios.github.io/readmes/iepbanters-readme-english.html">IEP Extended Banters</a> | 5.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/iepbanters-readme-english.html">IEP Extended Banters</a> | 5.7 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/cerndfriendship-readme-english.html">Cernd Friendship (SoA & ToB)</a> | 1.3 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/haerdalisfriendship-readme-english.html">Haer'Dalis Friendship (SoA & ToB)</a> | 1.2 | <a href="http://www.shsforums.net/user/11510-aeryn/">Aeryn</a> and <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
-| <a href="https://spellholdstudios.github.io/readmes/imoenfriendship-readme-english.html">Imoen Friendship (SoA & ToB)</a> | 3.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/imoenfriendship-readme-english.html">Imoen Friendship (SoA & ToB)</a> | 3.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/korganfriendship-readme-english.html">Korgan Friendship (SoA & ToB)</a> | 1.6 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | |
 | <a href="https://spellholdstudios.github.io/readmes/mazzyfriendship-readme-english.html">Mazzy Friendship (SoA & ToB)</a> | 3.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/minscfriendship-readme-english.html">Minsc Friendship (SoA & ToB)</a> | 1.2 | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a>, <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and AionZ | |
@@ -158,6 +158,14 @@ Documentation for all modifications that are part of the definition of mega-modi
 ## <a name="tweaks" id="tweaks"></a>Tweaks, Rule Changes and Additions
 
 Documentation for all Tweaks as well as other mods that affect rules, classes, scripts and other mechanics of the game hosted at <a href="http://www.shsforums.net/files/category/10-technical-and-tweak-mods/">SHS</a>.
+
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/k9quicksave-readme.txt">Quick Save Slots Tweaks</a> (by yellow hat elminster)</span></br>
+
+&nbsp;
+
+|  Mod    | Version | Author          | Maintainer |
+| :------ |  :---:  | :-------------- | :--------- |
+| <a href="https://spellholdstudios.github.io/readmes/k9quicksave-readme.txt">Quick Save Slots Tweaks</a> | 1.6 | <a href="http://www.shsforums.net/user/40577-yellow-hat-elminster/">yellow hat elminster</a> | <a href="http://www.shsforums.net/user/40577-yellow-hat-elminster/">yellow hat elminster</a> and SHS Staff|
 
 <div align="right"><a href="#top">Back to top</a></div>
 
