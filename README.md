@@ -15,6 +15,14 @@
 <hr>
 
 
+## SHS readme template
+
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/mymod/readme/mymod-readme-english.html">SHS readme template v2.0.0</a> (by Gwendolyne)</span></br>
+
+
+<hr>
+
+
 ## <a name="npc" id="npc"></a>Joinable NPC Mods
 
 Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.net/files/category/6-npc-mods/">SHS</a>.
@@ -110,9 +118,9 @@ Documentation for all Quest and Encounter mods mods hosted at <a href="http://ww
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="https://spellholdstudios.github.io/readmes/readme.english.dsotsc.txt">Dark Side of the Sword Coast</a> | 4.0 | <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> from CuChoinneach's original mod, and others | <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
-| <a href="https://spellholdstudios.github.io/readmes/readmefadingpromises.html">Fading Promises</a> | 8.0.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | SHS Staff |
-| <a href="https://spellholdstudios.github.io/readmes/readme-ntotsc.txt">Northern Tales of the Sword Coast</a> | 4.1.0 | a <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> Production | <a href="http://www.shsforums.net/user/6375-k4thos/">k4thos</a> and <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
+| <a href="https://spellholdstudios.github.io/readmes/readme.english.dsotsc.txt">Dark Side of the Sword Coast</a> | 4.1 | <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> from CuChoinneach's original mod, and others | <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
+| <a href="https://spellholdstudios.github.io/readmes/readmefadingpromises.html">Fading Promises</a> | 9.0.0 | <a href="http://www.shsforums.net/user/5472-berelinde/">berelinde</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/readme-ntotsc.txt">Northern Tales of the Sword Coast</a> | 4.2.0 | a <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> Production | <a href="http://www.shsforums.net/user/6375-k4thos/">k4thos</a> and <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
 | <a href="https://spellholdstudios.github.io/readmes/rot-readme-english.html">Region of Terror</a> | 4.0 | <a href="http://www.shsforums.net/user/3097-gilgamesh/">Gilgamesh</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a> and <a href="http://www.shsforums.net/user/7223-ikki/">Ikky</a> & <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
@@ -145,7 +153,7 @@ Documentation for all modifications that are part of the definition of mega-modi
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/bgt/%5Benglish%5Dbgtreadme.htm">Baldur's Gate Trilogy-WeiDU</a> | 1.2.1 | <a href="https://github.com/Ascension64">Ascension64</a> | <a href="http://www.shsforums.net/user/41045-skellytz/">skellytz</a> |
-| <a href="https://spellholdstudios.github.io/readmes/worldmap-readme-english.html">BP-BGT Worldmap</a>| 10.2.5 | <a href="http://www.shsforums.net/user/3879-yacomo/">Yacomo</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a>, <a href="http://www.shsforums.net/user/4679-erebusant/">Erebusant</a> and <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | --- |
+| <a href="https://spellholdstudios.github.io/readmes/worldmap-readme-english.html">BP-BGT Worldmap</a>| 10.2.6 | <a href="http://www.shsforums.net/user/3879-yacomo/">Yacomo</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a>, <a href="http://www.shsforums.net/user/4679-erebusant/">Erebusant</a> and <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | --- |
 | <a href="https://spellholdstudios.github.io/readmes/ctb-readme-english.html">Check the Bodies</a>| 3.0 | <a href="http://www.shsforums.net/user/3378-cbisson/">Charles Bisson</a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a> (WeiDU revision), <a href="http://www.shsforums.net/user/7223-ikki/">Ikky</a> (EE Conversion) and <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> (EE revision) | <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> |
 | <a href="https://spellholdstudios.github.io/readmes/sos-readme-english.html">Shadows over Soubar</a>| 1.15 | <a href="http://www.shsforums.net/user/3378-cbisson/">CBisson</a>, <a href="http://www.shsforums.net/user/688-horred-the-plague/">Horred The Plague</a></a>, <a href="http://www.shsforums.net/user/3816-king-diamond/">King Diamond</a> and <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> | <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> |
 
@@ -235,7 +243,7 @@ Documentation for all IE mods mirrored at SHS <a href="http://www.shsforums.net/
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/bolsa-readme-english.txt">Bolsa</a> | 6.0.0 | Alexa and <a href="http://www.shsforums.net/user/409-mhoram/">Mhoram</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/darron-readme-english.txt">Darron</a> | 2.0.0 | Eslizon | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
-| <a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> | 29.2.0 | <a href="http://www.shsforums.net/user/40637-moonfruit/">Moonfruit</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
+| <a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> | 29.3.0 | <a href="http://www.shsforums.net/user/40637-moonfruit/">Moonfruit</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
