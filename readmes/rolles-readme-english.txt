@@ -1,5 +1,5 @@
                     A mod for Baldur's Gate II: Throne of Bhaal
-                              Rolles Version 5.0.0
+                              Rolles Version 5.0.3
                          Serdrick ( serdrick@yandex.ru )
 
 
@@ -515,6 +515,7 @@ Aaron O'Neil - for ShadowKeeper.
 Alina (aerie.ru) - great thanks for the English texts editing!
 La Voix 2 la Sagesse (of the d'Oghmatiques) - for the French translation.
 Xavier1161: fixed English texts (version 3a).
+ilot: Italian translation.
 Deratiseur: Provided native EE compatible version (v4.0.0).
 AL|EN: Wrote process which automatically provides Windows, Linux and Mac versions in the same archive file.
 Gwendolyne: Fixed bugs and translations and released version 5.0.0.
@@ -523,15 +524,15 @@ Gwendolyne: Fixed bugs and translations and released version 5.0.0.
 6. LEGAL
 ========
 
-BALDUR'S GATE II: SHADOWS OF AMN, BALDUR'S GATE II: THRONE OF BHAAL: © 2000, 2001 Bioware Corp. All Rights Reserved.
+BALDUR'S GATE II: SHADOWS OF AMN, BALDUR'S GATE II: THRONE OF BHAAL: Â© 2000, 2001 Bioware Corp. All Rights Reserved.
 
-ICEWIND DALE, ICEWIND DALE: HEART OF WINTER, TRIALS OF THE LUREMASTER: © 2000, 2000, 2001 Interplay Productions. All Rights Reserved.
+ICEWIND DALE, ICEWIND DALE: HEART OF WINTER, TRIALS OF THE LUREMASTER: Â© 2000, 2000, 2001 Interplay Productions. All Rights Reserved.
 
-PLANESCAPE: TORMENT & DESIGN: © 1999 Interplay Productions. All Rights Reserved.
+PLANESCAPE: TORMENT & DESIGN: Â© 1999 Interplay Productions. All Rights Reserved.
 
-Bioware Infinity Engine: © 1998 Bioware Corp. All Rights Reserved.
+Bioware Infinity Engine: Â© 1998 Bioware Corp. All Rights Reserved.
 
-BALDUR'S GATE, TALES OF THE SWORD COAST: © 1998, 1999 BioWare Corp. All Rights Reserved.
+BALDUR'S GATE, TALES OF THE SWORD COAST: Â© 1998, 1999 BioWare Corp. All Rights Reserved.
 
 Baldur's Gate, Icewind Dale, Torment, Planescape, the Planescape logo, Forgotten Realms, the Forgotten Realms logo, Advanced Dungeons & Dragons, the AD&D logo, and the TSR logo are trademarks of TSR, Inc., a subsidiary of Wizards of the Coast, Inc, and are used by Interplay under license. All Rights Reserved. Interplay, the Interplay logo, Black Isle Studios, the Black Isle Studios logo, and "By Gamers, For Gamers." are trademarks of Interplay Productions. All Rights Reserved.
 
@@ -542,6 +543,17 @@ All other trademarks and copyrights are the property of their respective owners.
 
 7. VERSIONS HISTORY
 ===================
+
+Version 5.0.3 (January 27, 2021)
+- Added Polish translation by Aristo.
+- Fixed Russian component names.
+
+Version 5.0.2 (December 20, 2019)
+- Added Italian translation by ilot.
+
+Version 5.0.1 (December 14, 2019)
+- Fixed an issue with Auto-Package Generator tool: new version of MacOS (Catalina) prevented the mod to be installed.
+- Lower cased LABEL names for consistency ("rolles_safyer" and "rolles_bag_of_holding_in_irenicus_dungeon").
 
 Version 5.0.0 (November 22, 2019)
 - Major updates:
@@ -567,6 +579,7 @@ Version 5.0.0 (November 22, 2019)
 	- Reorganized mod architecture tree: created folders to sort files according to their types.
 	- Removed useless files.
 	- Included Linux and Mac Os X versions in the same package (thanks AL|EN!).
+	- Transferred mod to SpellHold Studios GitHub account.
 - Items updates:
 	- Fixed unusability flags and appended tooltip.2da whenever relevant.
 	- Added 1PP compatibility to harmonize colors item with EE games and classical 1PP modded games.
