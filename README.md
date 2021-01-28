@@ -55,7 +55,7 @@ Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.
 | <a href="https://spellholdstudios.github.io/readmes/ninde-readme-english.html">Ninde NPC for BGII</a> | 3.0 | <a href="http://www.shsforums.net/user/3253-deva/">Deva (SoA)</a> - <a href="http://www.shsforums.net/user/3481-kaeloree/">K'aeloree</a> and <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> (ToB) | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> and SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/valerie-readme-english.html">Valerie</a> | 1.2 | <a href="http://www.shsforums.net/user/5286-tempest/">Tempest</a> and <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/xulaye_readme.htm">Xulaye</a> | 2.0 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
-| <a href="https://spellholdstudios.github.io/readmes/yeslicknpc-readme-english.html">Yeslick NPC</a> | 4.0 | <a href="http://www.shsforums.net/user/2005-pixel-kaiser/">Pixel Kaiser</a>, <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/yeslicknpc-readme-english.html">Yeslick NPC</a> | 5.0 | <a href="http://www.shsforums.net/user/2005-pixel-kaiser/">Pixel Kaiser</a>, <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -243,7 +243,7 @@ Documentation for all IE mods mirrored at SHS <a href="http://www.shsforums.net/
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/bolsa-readme-english.txt">Bolsa</a> | 6.0.0 | Alexa and <a href="http://www.shsforums.net/user/409-mhoram/">Mhoram</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/darron-readme-english.txt">Darron</a> | 2.0.0 | Eslizon | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
-| <a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> | 29.3.0 | <a href="http://www.shsforums.net/user/40637-moonfruit/">Moonfruit</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
+| <a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> | 29.4.0 | <a href="http://www.shsforums.net/user/40637-moonfruit/">Moonfruit</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
