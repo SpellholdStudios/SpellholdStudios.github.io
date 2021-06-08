@@ -570,6 +570,17 @@ Version 5.0.1 (December 14, 2019)
 - Fixed an issue with Auto-Package Generator tool: new version of MacOS (Catalina) prevented the mod to be installed.
 - Lower cased `LABEL` names for consistency ("rolles_safyer" and "rolles_bag_of_holding_in_irenicus_dungeon").
 
+Version 5.0.3 (January 27, 2021)
+- Added Polish translation by Aristo.
+- Fixed Russian component names.
+
+Version 5.0.2 (December 20, 2019)
+- Added Italian translation by ilot.
+
+Version 5.0.1 (December 14, 2019)
+- Fixed an issue with Auto-Package Generator tool: new version of MacOS (Catalina) prevented the mod to be installed.
+- Lower cased LABEL names for consistency ("rolles_safyer" and "rolles_bag_of_holding_in_irenicus_dungeon").
+
 Version 5.0.0 (November 22, 2019)
 - Major updates:
 	- Renamed Setup-rolles.tp2 -> rolles.tp2 to support AL|EN's "Project Infinity".
