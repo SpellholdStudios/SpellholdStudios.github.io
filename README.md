@@ -35,6 +35,7 @@ Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/isra-readme-english.html">Isra NPC (for BG)</a> (by Rhaella)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/isra_bg2-readme-english.html">Isra NPC for BGII</a> (by Rhaella)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/iylos_readme.html">Iylos</a> (by Kaeloree)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/luxleysoa-readme-english.html">The Luxley Family</a> (by Feuille and Miss Sakaki)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/nephele_readme.html">Nephele</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/ninde-readme-english.html">Ninde NPC for BGII</a> (by Deva, Kaeloree and Rhaella)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/valerie-readme-english.html">Valerie</a> (by Tempest and Kaeloree)</span></br>
@@ -53,6 +54,7 @@ Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.
 | <a href="https://spellholdstudios.github.io/readmes/isra-readme-english.html">Isra NPC (for BG)</a> | 3.5 | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> and SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/isra_bg2-readme-english.html">Isra NPC for BGII</a> | 3.1 | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> and SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/iylos_readme.html">Iylos</a> | 2.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/luxleysoa-readme-english.html">The Luxley Family</a> | 2.0.0 | <a href="http://www.shsforums.net/user/5879-feuille/">Feuille</a> and <a href="http://www.shsforums.net/user/4278-miss-sakaki/">Miss Sakaki</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/nephele_readme.html">Nephele</a> | 2.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/ninde-readme-english.html">Ninde NPC for BGII</a> | 3.0 | <a href="http://www.shsforums.net/user/3253-deva/">Deva (SoA)</a> - <a href="http://www.shsforums.net/user/3481-kaeloree/">K'aeloree</a> and <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> (ToB) | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> and SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/valerie-readme-english.html">Valerie</a> | 1.2 | <a href="http://www.shsforums.net/user/5286-tempest/">Tempest</a> and <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | SHS Staff |
@@ -82,6 +84,7 @@ Documentation for all Expansion mods and projects that add new individual charac
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/yoshimofriendship-readme-english.html">Yoshimo Friendship</a> (by Shadowhawke)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> (by Laufey and others)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/neera-expansion-readme-english.html">Neera Expansion (BG:EE)</a> (by Kaeloree)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/jz-readme-english.html">The Jerry Zinger Show</a> (by Shed, SConrad and others)</span></br>
 
 &nbsp;
 
@@ -100,6 +103,7 @@ Documentation for all Expansion mods and projects that add new individual charac
 | <a href="https://spellholdstudios.github.io/readmes/yoshimofriendship-readme-english.html">Yoshimo Friendship</a> | 4.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/2233-shadowhawke/">Shadowhawke</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> | 2.11 | <a href="http://www.shsforums.net/user/601-laufey/">Laufey</a> and others | <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
 | <a href="https://spellholdstudios.github.io/readmes/neera-expansion-readme-english.html">Neera Expansion (BG:EE)</a> | 1.2.0 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | SHS |
+| <a href="https://spellholdstudios.github.io/readmes/jz-readme-english.html">The Jerry Zinger Show</a> | 5.0 | <a href="http://www.shsforums.net/user/3014-shed">Shed</a>, <a href="http://www.shsforums.net/user/2832-sconrad">SConrad</a> and others | SHS Staff |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
