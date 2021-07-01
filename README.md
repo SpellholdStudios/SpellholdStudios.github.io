@@ -102,7 +102,7 @@ Documentation for all Expansion mods and projects that add new individual charac
 | <a href="https://spellholdstudios.github.io/readmes/viconiafriendship-readme-english.html">Viconia Friendship (SoA & ToB)</a> | 4.5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/yoshimofriendship-readme-english.html">Yoshimo Friendship</a> | 4.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/2233-shadowhawke/">Shadowhawke</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/edwinromance-readme.html">Edwin Romance</a> | 2.11 | <a href="http://www.shsforums.net/user/601-laufey/">Laufey</a> and others | <a href="http://www.shsforums.net/user/2751-jastey/">jastey</a> |
-| <a href="https://spellholdstudios.github.io/readmes/neera-expansion-readme-english.html">Neera Expansion (BG:EE)</a> | 1.2.0 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | SHS |
+| <a href="https://spellholdstudios.github.io/readmes/neera-expansion-readme-english.html">Neera Expansion (BG:EE)</a> | 1.3.0 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | SHS |
 | <a href="https://spellholdstudios.github.io/readmes/jz-readme-english.html">The Jerry Zinger Show</a> | 5.0 | <a href="http://www.shsforums.net/user/3014-shed">Shed</a>, <a href="http://www.shsforums.net/user/2832-sconrad">SConrad</a> and others | SHS Staff |
 
 <div align="right"><a href="#top">Back to top</a></div>
