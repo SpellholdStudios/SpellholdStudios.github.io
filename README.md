@@ -90,7 +90,7 @@ Documentation for all Expansion mods and projects that add new individual charac
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="https://spellholdstudios.github.io/readmes/iepbanters-readme-english.html">IEP Extended Banters</a> | 5.7 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/iepbanters-readme-english.html">IEP Extended Banters</a> | 5.8 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/cerndfriendship-readme-english.html">Cernd Friendship (SoA & ToB)</a> | 1.3 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> and <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/haerdalisfriendship-readme-english.html">Haer'Dalis Friendship (SoA & ToB)</a> | 1.2 | <a href="http://www.shsforums.net/user/11510-aeryn/">Aeryn</a> and <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/imoenfriendship-readme-english.html">Imoen Friendship (SoA & ToB)</a> | 3.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
