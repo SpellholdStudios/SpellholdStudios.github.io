@@ -4,9 +4,9 @@
 
 
 <div align="center">
-<a href="#bgee">BGEE Mods</a> &#x2B25; <a href="#npc">Joinable NPC Mods</a> &#x2B25; <a href="#npc2">Content Expansion and Non-Joinable Character Mods</a> &#x2B25; <a href="#quest">Quest and Encounter Mods</a></br>
-<a href="#conversions">Total and Partial Conversions</a> &#x2B25; <a href="#mega">Mega Modifications</a> &#x2B25; <a href="#tweaks">Tweaks, Rule Changes and Additions</a> &#x2B25; <a href="#cosmetic">Visual and Audio Mods</a></br>
-<a href="#misc">Miscellaneous Released Mods</a> &#x2B25; <a href="#clan">Clan DLAN and Clan REO mirrored Mods</a> &#x2B25; <a href="#resurrection">Mod Resurrections</a></br>
+<a href="#bgee">BGEE Mods</a> &#x2B25; <a href="#npc">Joinable NPC Mods</a> &#x2B25; <a href="#npc2">Content Expansion and Non-Joinable Character Mods</a></br>
+<a href="#quest">Quest and Encounter Mods</a> &#x2B25; <a href="#conversions">Total and Partial Conversions</a> &#x2B25; <a href="#mega">Mega Modifications</a> &#x2B25; <a href="#tweaks">Tweaks, Rule Changes and Additions</a></br>
+<a href="#cosmetic">Visual and Audio Mods</a> &#x2B25; <a href="#misc">Miscellaneous Released Mods</a> &#x2B25; <a href="#clan">Clan DLAN and Clan REO mirrored Mods</a> &#x2B25; <a href="#resurrection">Mod Resurrections</a></br>
 <a href="#tools">IE Modding Tools</a> &#x2B25; <a href="#pst">Planescape: Torment Mods</a></br>
 </div>
 
