@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<a href="#npc">Joinable NPC Mods</a> &#x2B25; <a href="#npc2">Content Expansion and Non-Joinable Character Mods</a> &#x2B25; <a href="#quest">Quest and Encounter Mods</a></br>
+<a href="#bgee">BGEE Mods</a> &#x2B25; <a href="#npc">Joinable NPC Mods</a> &#x2B25; <a href="#npc2">Content Expansion & Non-Joinable Character Mods</a> &#x2B25; <a href="#quest">Quest and Encounter Mods</a></br>
 <a href="#conversions">Total and Partial Conversions</a> &#x2B25; <a href="#mega">Mega Modifications</a> &#x2B25; <a href="#tweaks">Tweaks, Rule Changes and Additions</a> &#x2B25; <a href="#cosmetic">Visual and Audio Mods</a></br>
 <a href="#misc">Miscellaneous Released Mods</a> &#x2B25; <a href="#clan">Clan DLAN and Clan REO mirrored Mods</a> &#x2B25; <a href="#resurrection">Mod Resurrections</a></br>
 <a href="#tools">IE Modding Tools</a> &#x2B25; <a href="#pst">Planescape: Torment Mods</a></br>
@@ -23,9 +23,27 @@
 <hr>
 
 
+## <a name="bgee" id="bgee"></a>BG:EE Mods
+
+Documentation for all BG:EE mods hosted at <a href="http://www.shsforums.net/files/category/113-bgee-mods/">SHS</a>. 
+
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/saradas_magic_2-readme-english.html">Saradas Magic for BG2</a> (by Saradas)</span></br>
+
+&nbsp;
+
+|  Mod    | Version | Author          | Maintainer |
+| :------ |  :---:  | :-------------- | :--------- |
+| <a href="https://spellholdstudios.github.io/readmes/saradas_magic_2-readme-english.html">Saradas Magic for BG2</a> | 2.0.0 | <a href="http://www.shsforums.net/user/40868-saradas/">Saradas</a> | SHS Staff |
+
+<div align="right"><a href="#top">Back to top</a></div>
+
+
+<hr>
+
+
 ## <a name="npc" id="npc"></a>Joinable NPC Mods
 
-Documentation for all Joinable NPC Mods hosted at <a href="http://www.shsforums.net/files/category/6-npc-mods/">SHS</a>. 
+Documentation for all Joinable NPC mods hosted at <a href="http://www.shsforums.net/files/category/6-npc-mods/">SHS</a>. 
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/adrian-readme-english.html">Adrian NPC for BGII</a> (by Rhaella)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/arath_readme.html">Arath</a> (by Kaeloree)</span></br>
@@ -137,7 +155,7 @@ Documentation for all Quest and Encounter mods mods hosted at <a href="http://ww
 
 ## <a name="conversions" id="conversions"></a>Total and Partial Conversions
 
-Documentation for all Total and Partial Conversions hosted at <a href="http://www.shsforums.net/files/category/8-total-and-partial-conversions/">SHS</a>.
+Documentation for all Total and Partial Conversions mods hosted at <a href="http://www.shsforums.net/files/category/8-total-and-partial-conversions/">SHS</a>.
 
 <div align="right"><a href="#top">Back to top</a></div>
 
@@ -189,7 +207,7 @@ Documentation for all Tweaks as well as other mods that affect rules, classes, s
 
 ## <a name="cosmetic" id="cosmetic"></a>Visual and Audio Mods
 
-Documentation for all Visual and Audio Mods including Portrait Mods hosted at <a href="http://www.shsforums.net/forum/531-visual-and-audio-mods/">SHS</a>.
+Documentation for all Visual and Audio mods including Portrait Mods hosted at <a href="http://www.shsforums.net/forum/531-visual-and-audio-mods/">SHS</a>.
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/1pp/documentation/1pp-readme-english.html">One Pixel Productions (1PP)</a> (by Erephine)</span></br>
 
@@ -239,7 +257,7 @@ Documentation for all released IE mods not officially hosted at <a href="http://
 
 ## <a name="clan" id="clan"></a>Clan DLAN and Clan REO mirrors
 
-Documentation for all IE mods mirrored at SHS <a href="http://www.shsforums.net/files/category/91-clan-dlan-mirror/">Clan DLAN mirror</a> and <a href="http://www.shsforums.net/files/category/95-clan-reo-mirror/">Clan REO mirror</a>.
+Documentation for all IE <a href="http://www.shsforums.net/files/category/91-clan-dlan-mirror/">Clan DLAN</a> and <a href="http://www.shsforums.net/files/category/95-clan-reo-mirror/">Clan REO</a> mods mirrored at SHS.
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/bolsa-readme-english.txt">Bolsa</a> (by Alexa and Mhoram)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/darron-readme-english.txt">Darron</a> (by Eslizon)</span></br>
