@@ -47,6 +47,7 @@ Documentation for all Joinable NPC mods hosted at <a href="http://www.shsforums.
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/adrian-readme-english.html">Adrian NPC for BGII</a> (by Rhaella)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/arath_readme.html">Arath</a> (by Kaeloree)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/btl-readme-english.html">Beyond the Law</a> (by Zyraen)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/dace_readme.html">Dace</a> (by Kaeloree)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/fade_readme.html">Fade</a> (by Mistress Elysia)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/hubelpot-readme-english.html">Hubelpot the Vegetable Merchant</a> (by BobTokyo and SConrad)</span></br>
@@ -66,6 +67,7 @@ Documentation for all Joinable NPC mods hosted at <a href="http://www.shsforums.
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/adrian-readme-english.html">Adrian NPC for BGII</a> | 5.0 | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> | <a href="http://www.shsforums.net/user/7955-rhaella/">Rhaella</a> |
 | <a href="https://spellholdstudios.github.io/readmes/arath_readme.html">Arath</a> | 5 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
+| <a href="https://spellholdstudios.github.io/readmes/btl-readme-english.html">Beyond the Law</a> | 2.0.0 | <a href="http://www.shsforums.net/user/3824-zyraen">Zyraen</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/dace_readme.html">Dace</a> | 5 | <a href="http://www.shsforums.net/user/1807-mistress-elysia/">Mistress Elysia</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/fade_readme.html">Fade</a> | 5.6 | <a href="http://www.shsforums.net/user/3481-kaeloree/">Kaeloree</a> | <a href="http://www.shsforums.net/user/9063-lava-delvortel/">Lava Del'Vortel</a> |
 | <a href="https://spellholdstudios.github.io/readmes/hubelpot-readme-english.html">Hubelpot the Vegetable Merchant</a> | 2.1.0 | <a href="http://www.shsforums.net/user/2433-bobtokyo/">BobTokyo</a> and <a href="http://www.shsforums.net/user/2832-sconrad/">SConrad</a> | SHS Staff |
