@@ -266,6 +266,7 @@ Documentation for all IE <a href="http://www.shsforums.net/files/category/91-cla
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/bolsa-readme-english.txt">Bolsa</a> (by Alexa and Mhoram)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/darron-readme-english.txt">Darron</a> (by Eslizon)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> (by Moonfruit)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/trovador-readme-english.txt">Trovador REO</a> (by Riojano2002)</span></br>
 
 &nbsp;
 
@@ -274,6 +275,7 @@ Documentation for all IE <a href="http://www.shsforums.net/files/category/91-cla
 | <a href="https://spellholdstudios.github.io/readmes/bolsa-readme-english.txt">Bolsa</a> | 6.0.0 | Alexa and <a href="http://www.shsforums.net/user/409-mhoram/">Mhoram</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/darron-readme-english.txt">Darron</a> | 2.0.0 | Eslizon | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 | <a href="https://spellholdstudios.github.io/readmes/ruad-readme-english.txt">Ruad Ro'fhessa Item Upgrade Mod</a> | 29.4.0 | <a href="http://www.shsforums.net/user/40637-moonfruit/">Moonfruit</a> | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
+| <a href="https://spellholdstudios.github.io/readmes/trovador-readme-english.txt">Trovador REO</a> | 2.5.0 | Riojano2002 | <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
