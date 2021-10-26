@@ -192,12 +192,14 @@ Documentation for all modifications that are part of the definition of mega-modi
 Documentation for all Tweaks as well as other mods that affect rules, classes, scripts and other mechanics of the game hosted at <a href="http://www.shsforums.net/files/category/10-technical-and-tweak-mods/">SHS</a>.
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/k9quicksave-readme.txt">Quick Save Slots Tweaks</a> (by yellow hat elminster)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/luvnalia-readme-english.html">Sir BillyBob's Revisions: Arnel's Nalia Romance</a> (by Arnel and Sir BillyBob)</span></br>
 
 &nbsp;
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
-| <a href="https://spellholdstudios.github.io/readmes/k9quicksave-readme.txt">Quick Save Slots Tweaks</a> | 1.6 | <a href="http://www.shsforums.net/user/40577-yellow-hat-elminster/">yellow hat elminster</a> | <a href="http://www.shsforums.net/user/40577-yellow-hat-elminster/">yellow hat elminster</a> and SHS Staff|
+| <a href="https://spellholdstudios.github.io/readmes/k9quicksave-readme.txt">Quick Save Slots Tweaks</a> | 1.6 | <a href="http://www.shsforums.net/user/40577-yellow-hat-elminster/">yellow hat elminster</a> | <a href="http://www.shsforums.net/user/40577-yellow-hat-elminster/">yellow hat elminster</a> and SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/luvnalia-readme-english.html">Sir BillyBob's Revisions: Arnel's Nalia Romance</a> | 2.0.0 | Arnel and <a href="http://www.shsforums.net/user/3046-sir-billybob/">Sir BillyBob</a> | SHS Staff |
 
 <div align="right"><a href="#top">Back to top</a></div>
 
