@@ -27,12 +27,14 @@
 
 Documentation for all BG:EE mods hosted at <a href="http://www.shsforums.net/files/category/113-bgee-mods/">SHS</a>. 
 
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/bank_of_baldurs_gate-readme-english.txt">Bank of Baldur's Gate</a> (by Lassal)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/saradas_magic_2-readme-english.html">Saradas Magic for BG2</a> (by Saradas)</span></br>
 
 &nbsp;
 
 |  Mod    | Version | Author          | Maintainer |
 | :------ |  :---:  | :-------------- | :--------- |
+| <a href="https://spellholdstudios.github.io/readmes/bank_of_baldurs_gate-readme-english.txt">Bank of Baldur's Gate</a> | 0.3 | <a href="http://www.shsforums.net/user/41302-lassal">Lassal</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/saradas_magic_2-readme-english.html">Saradas Magic for BG2</a> | 2.0.0 | <a href="http://www.shsforums.net/user/40868-saradas/">Saradas</a> | SHS Staff |
 
 <div align="right"><a href="#top">Back to top</a></div>
@@ -315,7 +317,7 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 | <a href="https://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> | 7.0.0 | Tin | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/improved-haerdalis-swords-readme-english.html">Improved Haer'Dalis' Swords</a> | 3.1.0 | <a href="http://www.shsforums.net/user/5102-badgert/">Badgert</a> and <a href="http://www.shsforums.net/user/4657-kania/">Kania Blade</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> | 8.1.0 | unknown author | SHS Staff |
-| <a href="https://spellholdstudios.github.io/readmes/kiara_zaiya-readme-english.html">Kiara Zaiya NPCs</a> | 2.0.0 | <a href="http://www.shsforums.net/user/1013-alan-mc">Alan M.C.</a>, <a href="http://www.shsforums.net/user/701-seifer">Seifer</a> and <a href="http://www.shsforums.net/user/48-jesara">Jesara</a> | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/kiara_zaiya-readme-english.html">Kiara Zaiya NPCs</a> | 2.0.1 | <a href="http://www.shsforums.net/user/1013-alan-mc">Alan M.C.</a>, <a href="http://www.shsforums.net/user/701-seifer">Seifer</a> and <a href="http://www.shsforums.net/user/48-jesara">Jesara</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/dragonsummon-readme-english.txt">Red Dragon Summoning Spell</a> | 2.1.0 | Coco_Pliz | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/star-readme-english.html">Silver Star NPC</a> | 2.0.0 | Davide Carta and <a href="http://www.shsforums.net/user/701-seifer/">Seifer</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/sotm-readme-english.txt">Stuff of the Magi</a> | 6.0.0 | Victor Straffe and <a href="http://www.shsforums.net/user/10434-kevmus/">Kevmus</a> | SHS Staff |
