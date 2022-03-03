@@ -291,6 +291,7 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/aip-readme.txt">Adventures in Papperland</a> (by CBisson)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/dsr-readme-english.txt">Demon Summoning Ritual</a> (by Tin)</span></br>
+><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/expanded_thief_stronghold-reame-english.html">Expanded Thief Stronghold</a> (by Gebhard Blucher)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> (by Tin)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/improved-haerdalis-swords-readme-english.html">Improved Haer'Dalis' Swords</a> (by Badgert and Kania Blade)</span></br>
 ><span style="margin-left: 50px;"><a href="https://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> (unknown author)</span></br>
@@ -314,6 +315,7 @@ Documentation for resurrected/rebuilt Infinity Engine mods hosted at <a href="ht
 | :------ |  :---:  | :-------------- | :--------- |
 | <a href="https://spellholdstudios.github.io/readmes/aip-readme.txt">Adventures in Papperland</a> | 6.0 | <a href="http://www.shsforums.net/user/3378-cbisson/">CBisson</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/dsr-readme-english.txt">Demon Summoning Ritual</a> | 8.0.0 | Tin | SHS Staff |
+| <a href="https://spellholdstudios.github.io/readmes/expanded_thief_stronghold-reame-english.html">Expanded Thief Stronghold</a> | 3.0.0 | Gebhard Blucher | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/heartwood-readme-english.txt">Heart of the Wood</a> | 7.0.0 | Tin | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/improved-haerdalis-swords-readme-english.html">Improved Haer'Dalis' Swords</a> | 3.1.0 | <a href="http://www.shsforums.net/user/5102-badgert/">Badgert</a> and <a href="http://www.shsforums.net/user/4657-kania/">Kania Blade</a> | SHS Staff |
 | <a href="https://spellholdstudios.github.io/readmes/alchemy-readme.txt">Jan's Alchemy</a> | 8.1.0 | unknown author | SHS Staff |
