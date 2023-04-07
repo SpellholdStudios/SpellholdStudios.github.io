@@ -9,9 +9,26 @@ body {
 	background: #e3e3db url('../images/shsbkgd.jpg');
 }
  
+/* Set margin for the table container */
+table.container {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+/* Set width and line-height for the table cells */
+td {
+    border: none;
+    line-height: 150%;
+    text-align: justify;
+}
+
+/* Set margin for the image cell */
+td.image {
+    padding-right: 20px;
+}
 
 /* -------------------- *
- *  En-tête  -  Header  *
+ *  En-tÃªte  -  Header  *
  * -------------------- */
 #wrap {
 	text-align: left;
@@ -246,7 +263,7 @@ border-radius: 4px 4px 4px 5px;
 	#maindiv ul li ul li ul li {}
 	ul.c1 {margin-left: 32px;}*/
 
-/* UNUSED 1pp = liste numérique
+/* UNUSED 1pp = liste numÃ©rique
 #maindiv ol {
 	margin: 0px 0 0 35px;
 	*margin-left: 70px;
@@ -507,12 +524,12 @@ h6 {
 
 
 /* --------------------- *
- * Image-logo d'en-tête  *
+ * Image-logo d'en-tÃªte  *
  * --------------------- */
 
 
 /* ---------------------------------- *
- *  Captures d'écran  -  Screenshots  *
+ *  Captures d'Ã©cran  -  Screenshots  *
  * ---------------------------------- */
 /*.screen img:hover{border-style:none;max-width:100%; opacity:0}*/
 
