@@ -277,7 +277,7 @@
     <hr />
     <p class="about">Authors: Yacomo, King Diamond, Erebusant, Weigo</p>
     <p class="about">
-      <a class="inter-link" href="http://www.spellholdstudios.net/ie/worldmap">Mod Website</a> &bull; <a class="inter-link" href="http://www.shsforums.net/index.php?showforum=401">Mod Forum</a> &bull; Version: 11.0.0</p>
+      <a class="inter-link" href="http://www.spellholdstudios.net/ie/worldmap">Mod Website</a> &bull; <a class="inter-link" href="http://www.shsforums.net/index.php?showforum=401">Mod Forum</a> &bull; Version: 12.0.0</p>
     <hr />
     <p class="menu">
       <a class="intra-link" href="#intro">Introduction</a> &sdot; <a class="intra-link" href="#maps">Maps</a> &sdot; <a class="intra-link" href="#installation">Installation</a> &sdot; <a class="intra-link" href="#faq">FAQ</a> &sdot; <a class="intra-link" href="#credits">Credits</a> &sdot; <a class="intra-link" href="#version">Version History</a></p>
@@ -348,12 +348,12 @@
       <p>The BP&ndash;BGT map is packaged and installed with WeiDU and is distributed as an archive.</p>
       <h6>Windows</h6>
        <p>To prepare installation, extract the archive contents into your Baldur's Gate 2 folder. In a typical installation your Baldur's Gate 2 folder will be <em>'C:\Program Files\Black Isle\BGII - SoA'</em></p>
-      <p>If properly extracted, you should have a <em>'bp-bgt_worldmap'</em> folder, <em>'setup-bp-bgt-worldmap.tp2'</em> and <em>'setup-bp-bgt-worldmap.exe'</em> in your Baldur's Gate 2 folder.</p>
+      <p>If properly extracted, you should have a <em>'bp-bgt-worldmap'</em> folder, <em>'setup-bp-bgt-worldmap.tp2'</em> and <em>'setup-bp-bgt-worldmap.exe'</em> in your Baldur's Gate 2 folder.</p>
       <p>To install, simply double-click <em>'setup-bp-bgt-worldmap.exe'</em> and follow the instructions on screen.</p>
       <p>At the installer itself is finished, the map graphics will be uncompressed automatically. This last step may take a while depending on your machine. Please do not interrupt it.</p>
 
       <h6>Other systems (Linux, 64-bit Mac)</h6>
-      <p><b>Note:</b> BP&ndash;BGT Worldmap relies on an external executable called <a href="http://www.shsforums.net/topic/47779-mospack/">mosunpack</a>. Mosunpack comes bundled with the mod (located in bp-bgt_worldmap/bin/) and the mod will attempt to run it inside the mod directory. Should this for any reason not be possible you need to place mosunpack on your system path and allow it to be executed as a program (chmod it) before attempting to install the mod.</p>
+      <p><b>Note:</b> BP&ndash;BGT Worldmap relies on an external executable called <a href="http://www.shsforums.net/topic/47779-mospack/">mosunpack</a>. Mosunpack comes bundled with the mod (located in bp-bgt-worldmap/bin/) and the mod will attempt to run it inside the mod directory. Should this for any reason not be possible you need to place mosunpack on your system path and allow it to be executed as a program (chmod it) before attempting to install the mod.</p>
 
       <p>Download a compiled version of <a href="http://weidu.org/main.html#weidu">WeiDU</a> appropriate for your platform. Place the WeiDU and WeInstall binaries on your path. If you don't already have one it is recommended you create a directory in your home directory, add that directory to your path and place your binaries there. If you are on Linux, or another case-sensitive environment, you also need the tolower binary.</p>
 
@@ -440,10 +440,10 @@
       <br />
       <br />
       <span class="t1">Painter:</span> <span class="t2">Yacomo, Weigo </span><br />
-      <span class="t1">Coder:</span> <span class="t2">King Diamond, Weigo, Erebusant</span><br />
-      <span class="t1">Support:</span> <span class="t2">Erebusant</span><br />
-      <span class="t1">Translation:</span> <span class="t2">Weigo (German), Ilot and Turambar (Italian), Hesus, K4thos and morgan, as well as people from Children of Bhaal Clan and Tawerna Hrothgara Forums (Polish), Ghildrean (Spanish), Isaya (French), prowler and Silent (Russian)</span><br />
-      <span class="t1">Other:</span><span class="t2">Valiant, CBisson, Sir BillyBob, Horred the Plague, HardenCoonor, K4thos, Mad Mate, NIGHTMARE, hlidskialf, Seanas, Ascension, Per Olofsson, The Wizard, K'aeloree, White Agnus, Roberciiik, p_zombie, abalabokhin, Spellholdstudios, G3, Blackwyrm, Kerzenburgforum, Rosenranken, Pocketplane</span><br />
+      <span class="t1">Coder:</span> <span class="t2">King Diamond, Weigo, Erebusant, Wisp</span><br />
+      <span class="t1">Support:</span> <span class="t2">Erebusant (retired), Wisp, Gwendolyne, jastey, Roberciiik</span><br />
+      <span class="t1">Translation:</span> <span class="t2">Weigo (German), Ilot and Turambar (Italian), Hesus, K4thos and morgan, as well as people from Children of Bhaal Clan and Tawerna Hrothgara Forums (Polish), Ghildrean (Spanish), Isaya (French), prowler and Silent (Russian), MephistoSatanDevil (Simplified Chinese)</span><br />
+      <span class="t1">Other:</span><span class="t2">Valiant, CBisson, Sir BillyBob, Horred the Plague, HardenCoonor, K4thos, Mad Mate, NIGHTMARE, hlidskialf, Seanas, Ascension, Per Olofsson, The Wizard, K'aeloree, White Agnus, p_zombie, abalabokhin, JohnBob, paladin84, GraionDilach, SpellholdStudios, G3, Blackwyrm, Kerzenburgforum, Rosenranken, Pocketplane</span><br />
 
       <hr class="floatfix" />
 
@@ -460,6 +460,59 @@
     <div class="content">
       <a id="version" />
       <object><h2>Version history</h2></object>
+
+
+      <h6>28 September 2023 - Version 12.0.0:</h6>
+      <ul>
+        <li>Starting from this version language add-ons are no longer required: localized maps are integrated into base modification</li>
+        <li>Used lossless compression for worldmap tilesets (format MBC instead of MOZ)</li>
+        <li>Fixed Winding Water river source to start at March of Chelimber on the map image</li>
+        <li>Extended map canvas with Neverwinter city "insert"</li>
+        <li>Restored proper BAM files' palette (fixed regression from v11)</li>
+        <li>Fixed issue with overlapping Candlekeep text labels on BG:EE</li>
+        <li>Fixed Dragonspear Castle location on Large Worldmap on EET</li>
+        <li>
+          <span>Updated icons positions:</span>
+          <ol>
+            <li>Hidden Refuge</li>
+            <li>Wild Forest</li>
+            <li>Govt. West (Fishing for Troubles)</li>
+            <li>Icewind Dale part of Region of Terror (compatibility with IWD-EET)</li>
+          </ol>
+        </li>
+        <li>
+          <span>Added new icons to BPBGTMAP.BAM file for the following modifications:</span>
+          <ol>
+            <li>BG1 NPC SoA (Water Gardens)</li>
+            <li>The Journey to the Whin Hill (Whin Hill)</li>
+            <li>Shades of the Sword Coast (Ormyrrs' Peak & Cemetery)</li>
+            <li>In Love, Undeath (Temple of Evening Glory)</li>
+            <li>NWN-for-BG (Neverwinter districts)</li>
+            <li>Region of Terror (Ice Temple)</li>
+          </ol>
+        </li>
+        <li>
+          <span>Removed custom map definition for supported mods, as it is implemented in the original mod:</span>
+          <ol>
+            <li>Alabaster Sands (v1.2)</li>
+          </ol>
+        </li>
+        <li>
+          <span>Updated mods to use dedicated map icons:</span>
+          <ol>
+            <li>Innershade</li>
+            <li>Foundling (Hidden Sanctuary)</li>
+            <li>The White Queen (Silent Swamps)</li>
+            <li>Eilistraee's Song (Eilistraee's Clearing)</li>
+            <li>Fishing for Troubles (only Government District West)</li>
+            <li>Region of Terror (Hermit's Outpost)</li>
+          </ol>
+        </li>
+        <li>Added Simplified Chinese language (thanks to MephistoSatanDevil)</li>
+        <li>Polish translation update</li>
+        <li>Russian translation update</li>
+        <li>French translation update</li>
+      </ul>
 
       <h6>27 January 2023 - Version 11.0.0:</h6>
       <ul>
